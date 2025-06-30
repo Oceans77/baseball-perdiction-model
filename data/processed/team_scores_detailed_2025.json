@@ -1,137 +1,25 @@
 [
   {
-    "team_name": "San Diego Padres",
-    "overall_score": 48.56,
-    "raw_score": 62.66,
-    "batting_score": 42.43,
-    "pitching_score": 24.78,
-    "fielding_score": 50.0,
-    "roster_size": 49,
-    "completeness_penalty": 0.225,
-    "position_breakdown": {
-      "Pitcher": {
-        "score": 70.894,
-        "weight": 0.35,
-        "player_count": 26,
-        "contribution": 24.8129
-      },
-      "Catcher": {
-        "score": 46.336000000000006,
-        "weight": 0.08,
-        "player_count": 4,
-        "contribution": 3.7068800000000004
-      },
-      "First Baseman": {
-        "score": 0.0,
-        "weight": 0.07,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Second Baseman": {
-        "score": 0.0,
-        "weight": 0.06,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Third Baseman": {
-        "score": 0.0,
-        "weight": 0.07,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Shortstop": {
-        "score": 42.678,
-        "weight": 0.08,
-        "player_count": 3,
-        "contribution": 3.41424
-      },
-      "Left Fielder": {
-        "score": 0.0,
-        "weight": 0.06,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Center Fielder": {
-        "score": 0.0,
-        "weight": 0.08,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Right Fielder": {
-        "score": 0.0,
-        "weight": 0.06,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Designated Hitter": {
-        "score": 0.0,
-        "weight": 0.05,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Outfielder": {
-        "score": 63.0,
-        "weight": 0.06,
-        "player_count": 7,
-        "contribution": 3.78
-      }
-    },
-    "top_players": [
-      {
-        "full_name": "Dylan Cease",
-        "position": "Pitcher",
-        "overall_score": 71.78
-      },
-      {
-        "full_name": "Michael King",
-        "position": "Pitcher",
-        "overall_score": 69.91
-      },
-      {
-        "full_name": "Robert Suarez",
-        "position": "Pitcher",
-        "overall_score": 69.22
-      },
-      {
-        "full_name": "Tanner Scott",
-        "position": "Pitcher",
-        "overall_score": 67.95
-      },
-      {
-        "full_name": "Jason Adam",
-        "position": "Pitcher",
-        "overall_score": 66.97
-      }
-    ]
-  },
-  {
     "team_name": "Seattle Mariners",
-    "overall_score": 48.4,
-    "raw_score": 62.45,
-    "batting_score": 36.62,
-    "pitching_score": 26.34,
+    "overall_score": 44.41,
+    "raw_score": 57.3,
+    "batting_score": 38.67,
+    "pitching_score": 25.2,
     "fielding_score": 50.0,
-    "roster_size": 50,
+    "roster_size": 25,
     "completeness_penalty": 0.225,
     "position_breakdown": {
       "Pitcher": {
-        "score": 71.632,
+        "score": 61.806,
         "weight": 0.35,
-        "player_count": 26,
-        "contribution": 25.0712
+        "player_count": 12,
+        "contribution": 21.632099999999998
       },
       "Catcher": {
-        "score": 46.268,
+        "score": 58.083999999999996,
         "weight": 0.08,
-        "player_count": 3,
-        "contribution": 3.7014400000000003
+        "player_count": 2,
+        "contribution": 4.64672
       },
       "First Baseman": {
         "score": 0.0,
@@ -155,10 +43,10 @@
         "missing": true
       },
       "Shortstop": {
-        "score": 42.833999999999996,
+        "score": 41.432,
         "weight": 0.08,
-        "player_count": 3,
-        "contribution": 3.4267199999999995
+        "player_count": 1,
+        "contribution": 3.31456
       },
       "Left Fielder": {
         "score": 0.0,
@@ -189,61 +77,173 @@
         "missing": true
       },
       "Outfielder": {
-        "score": 56.599999999999994,
+        "score": 51.158,
         "weight": 0.06,
-        "player_count": 9,
-        "contribution": 3.3959999999999995
+        "player_count": 4,
+        "contribution": 3.06948
       }
     },
     "top_players": [
       {
-        "full_name": "Bryce Miller",
-        "position": "Pitcher",
-        "overall_score": 72.54
-      },
-      {
-        "full_name": "Logan Gilbert",
-        "position": "Pitcher",
-        "overall_score": 71.82
-      },
-      {
-        "full_name": "George Kirby",
-        "position": "Pitcher",
-        "overall_score": 68.72
+        "full_name": "Cal Raleigh",
+        "position": "Catcher",
+        "overall_score": 64.03
       },
       {
         "full_name": "Andr\u00e9s Mu\u00f1oz",
         "position": "Pitcher",
-        "overall_score": 67.04
+        "overall_score": 63.48
       },
       {
         "full_name": "Bryan Woo",
         "position": "Pitcher",
-        "overall_score": 65.36
+        "overall_score": 63.41
+      },
+      {
+        "full_name": "Matt Brash",
+        "position": "Pitcher",
+        "overall_score": 55.18
+      },
+      {
+        "full_name": "Gabe Speier",
+        "position": "Pitcher",
+        "overall_score": 54.67
+      }
+    ]
+  },
+  {
+    "team_name": "Texas Rangers",
+    "overall_score": 43.48,
+    "raw_score": 56.11,
+    "batting_score": 31.28,
+    "pitching_score": 24.18,
+    "fielding_score": 50.0,
+    "roster_size": 19,
+    "completeness_penalty": 0.225,
+    "position_breakdown": {
+      "Pitcher": {
+        "score": 63.00000000000001,
+        "weight": 0.35,
+        "player_count": 9,
+        "contribution": 22.05
+      },
+      "Catcher": {
+        "score": 40.408,
+        "weight": 0.08,
+        "player_count": 2,
+        "contribution": 3.23264
+      },
+      "First Baseman": {
+        "score": 0.0,
+        "weight": 0.07,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Second Baseman": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Third Baseman": {
+        "score": 0.0,
+        "weight": 0.07,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Shortstop": {
+        "score": 48.274,
+        "weight": 0.08,
+        "player_count": 3,
+        "contribution": 3.86192
+      },
+      "Left Fielder": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Center Fielder": {
+        "score": 0.0,
+        "weight": 0.08,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Right Fielder": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Designated Hitter": {
+        "score": 0.0,
+        "weight": 0.05,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Outfielder": {
+        "score": 47.269999999999996,
+        "weight": 0.06,
+        "player_count": 3,
+        "contribution": 2.8362
+      }
+    },
+    "top_players": [
+      {
+        "full_name": "Jacob deGrom",
+        "position": "Pitcher",
+        "overall_score": 66.79
+      },
+      {
+        "full_name": "Hoby Milner",
+        "position": "Pitcher",
+        "overall_score": 57.35
+      },
+      {
+        "full_name": "Chris Martin",
+        "position": "Pitcher",
+        "overall_score": 57.28
+      },
+      {
+        "full_name": "Evan Carter",
+        "position": "Outfielder",
+        "overall_score": 56.71
+      },
+      {
+        "full_name": "Josh Smith",
+        "position": "Shortstop",
+        "overall_score": 52.28
       }
     ]
   },
   {
     "team_name": "San Francisco Giants",
-    "overall_score": 48.03,
-    "raw_score": 60.04,
-    "batting_score": 41.13,
-    "pitching_score": 19.72,
+    "overall_score": 43.3,
+    "raw_score": 54.13,
+    "batting_score": 36.79,
+    "pitching_score": 25.29,
     "fielding_score": 50.0,
-    "roster_size": 58,
+    "roster_size": 26,
     "completeness_penalty": 0.2,
     "position_breakdown": {
       "Pitcher": {
-        "score": 68.03800000000001,
+        "score": 62.782,
         "weight": 0.35,
-        "player_count": 28,
-        "contribution": 23.8133
+        "player_count": 13,
+        "contribution": 21.973699999999997
       },
       "Catcher": {
-        "score": 48.788,
+        "score": 37.135,
         "weight": 0.08,
-        "player_count": 6,
-        "contribution": 3.90304
+        "player_count": 2,
+        "contribution": 2.9708
       },
       "First Baseman": {
         "score": 0.0,
@@ -267,10 +267,10 @@
         "missing": true
       },
       "Shortstop": {
-        "score": 50.375,
+        "score": 32.696,
         "weight": 0.08,
-        "player_count": 2,
-        "contribution": 4.03
+        "player_count": 1,
+        "contribution": 2.61568
       },
       "Left Fielder": {
         "score": 0.0,
@@ -294,178 +294,67 @@
         "missing": true
       },
       "Designated Hitter": {
-        "score": 44.688,
+        "score": 56.160000000000004,
         "weight": 0.05,
         "player_count": 1,
-        "contribution": 2.2344000000000004
+        "contribution": 2.8080000000000003
       },
       "Outfielder": {
-        "score": 54.05200000000001,
+        "score": 53.156000000000006,
         "weight": 0.06,
-        "player_count": 10,
-        "contribution": 3.2431200000000002
+        "player_count": 4,
+        "contribution": 3.18936
       }
     },
     "top_players": [
       {
-        "full_name": "Ryan Walker",
-        "position": "Pitcher",
-        "overall_score": 71.64
+        "full_name": "Rafael Devers",
+        "position": "Designated Hitter",
+        "overall_score": 70.2
       },
       {
         "full_name": "Logan Webb",
         "position": "Pitcher",
-        "overall_score": 62.84
+        "overall_score": 63.87
       },
       {
-        "full_name": "Blake Snell",
+        "full_name": "Robbie Ray",
         "position": "Pitcher",
-        "overall_score": 62.43
+        "overall_score": 61.84
       },
       {
-        "full_name": "Tyler Rogers",
+        "full_name": "Randy Rodr\u00edguez",
         "position": "Pitcher",
-        "overall_score": 57.76
+        "overall_score": 60.46
       },
       {
         "full_name": "Heliot Ramos",
         "position": "Outfielder",
-        "overall_score": 56.38
+        "overall_score": 58.47
       }
     ]
   },
   {
-    "team_name": "St. Louis Cardinals",
-    "overall_score": 46.28,
-    "raw_score": 57.85,
-    "batting_score": 40.31,
-    "pitching_score": 25.91,
+    "team_name": "Tampa Bay Rays",
+    "overall_score": 42.82,
+    "raw_score": 55.25,
+    "batting_score": 45.12,
+    "pitching_score": 23.85,
     "fielding_score": 50.0,
-    "roster_size": 44,
-    "completeness_penalty": 0.2,
-    "position_breakdown": {
-      "Pitcher": {
-        "score": 68.55799999999999,
-        "weight": 0.35,
-        "player_count": 24,
-        "contribution": 23.995299999999997
-      },
-      "Catcher": {
-        "score": 50.977000000000004,
-        "weight": 0.08,
-        "player_count": 2,
-        "contribution": 4.0781600000000005
-      },
-      "First Baseman": {
-        "score": 0.0,
-        "weight": 0.07,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Second Baseman": {
-        "score": 0.0,
-        "weight": 0.06,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Third Baseman": {
-        "score": 0.0,
-        "weight": 0.07,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Shortstop": {
-        "score": 45.541,
-        "weight": 0.08,
-        "player_count": 2,
-        "contribution": 3.64328
-      },
-      "Left Fielder": {
-        "score": 0.0,
-        "weight": 0.06,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Center Fielder": {
-        "score": 0.0,
-        "weight": 0.08,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Right Fielder": {
-        "score": 0.0,
-        "weight": 0.06,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
-      },
-      "Designated Hitter": {
-        "score": 28.712000000000003,
-        "weight": 0.05,
-        "player_count": 1,
-        "contribution": 1.4356000000000002
-      },
-      "Outfielder": {
-        "score": 45.233999999999995,
-        "weight": 0.06,
-        "player_count": 6,
-        "contribution": 2.71404
-      }
-    },
-    "top_players": [
-      {
-        "full_name": "Ryan Helsley",
-        "position": "Pitcher",
-        "overall_score": 71.57
-      },
-      {
-        "full_name": "Sonny Gray",
-        "position": "Pitcher",
-        "overall_score": 65.87
-      },
-      {
-        "full_name": "Erick Fedde",
-        "position": "Pitcher",
-        "overall_score": 62.21
-      },
-      {
-        "full_name": "Willson Contreras",
-        "position": "First Base",
-        "overall_score": 58.83
-      },
-      {
-        "full_name": "Andrew Kittredge",
-        "position": "Pitcher",
-        "overall_score": 57.84
-      }
-    ]
-  },
-  {
-    "team_name": "Oakland Athletics",
-    "overall_score": 45.28,
-    "raw_score": 58.43,
-    "batting_score": 41.77,
-    "pitching_score": 21.7,
-    "fielding_score": 50.0,
-    "roster_size": 55,
+    "roster_size": 26,
     "completeness_penalty": 0.225,
     "position_breakdown": {
       "Pitcher": {
-        "score": 63.732,
+        "score": 61.85,
         "weight": 0.35,
-        "player_count": 32,
-        "contribution": 22.306199999999997
+        "player_count": 13,
+        "contribution": 21.6475
       },
       "Catcher": {
-        "score": 47.980999999999995,
+        "score": 44.538999999999994,
         "weight": 0.08,
         "player_count": 2,
-        "contribution": 3.8384799999999997
+        "contribution": 3.5631199999999996
       },
       "First Baseman": {
         "score": 0.0,
@@ -489,10 +378,10 @@
         "missing": true
       },
       "Shortstop": {
-        "score": 40.217999999999996,
+        "score": 40.884,
         "weight": 0.08,
-        "player_count": 3,
-        "contribution": 3.21744
+        "player_count": 2,
+        "contribution": 3.2707200000000003
       },
       "Left Fielder": {
         "score": 0.0,
@@ -523,61 +412,61 @@
         "missing": true
       },
       "Outfielder": {
-        "score": 65.69800000000001,
+        "score": 50.21,
         "weight": 0.06,
-        "player_count": 7,
-        "contribution": 3.9418800000000003
+        "player_count": 4,
+        "contribution": 3.0126
       }
     },
     "top_players": [
       {
-        "full_name": "Brent Rooker",
-        "position": "Outfielder",
-        "overall_score": 73.5
+        "full_name": "Jonathan Aranda",
+        "position": "First Base",
+        "overall_score": 66.46
       },
       {
-        "full_name": "Mason Miller",
+        "full_name": "Drew Rasmussen",
         "position": "Pitcher",
-        "overall_score": 69.08
+        "overall_score": 64.65
       },
       {
-        "full_name": "Lucas Erceg",
+        "full_name": "Pete Fairbanks",
         "position": "Pitcher",
-        "overall_score": 57.25
+        "overall_score": 58.71
       },
       {
-        "full_name": "Lawrence Butler",
-        "position": "Outfielder",
-        "overall_score": 56.28
+        "full_name": "Yandy D\u00edaz",
+        "position": "First Base",
+        "overall_score": 58.04
       },
       {
-        "full_name": "Vinny Nittoli",
+        "full_name": "Garrett Cleavinger",
         "position": "Pitcher",
-        "overall_score": 54.17
+        "overall_score": 56.59
       }
     ]
   },
   {
     "team_name": "Pittsburgh Pirates",
-    "overall_score": 44.73,
-    "raw_score": 57.71,
-    "batting_score": 42.36,
-    "pitching_score": 20.79,
+    "overall_score": 42.32,
+    "raw_score": 54.61,
+    "batting_score": 35.24,
+    "pitching_score": 24.57,
     "fielding_score": 50.0,
-    "roster_size": 56,
+    "roster_size": 25,
     "completeness_penalty": 0.225,
     "position_breakdown": {
       "Pitcher": {
-        "score": 66.936,
+        "score": 61.25600000000001,
         "weight": 0.35,
-        "player_count": 31,
-        "contribution": 23.4276
+        "player_count": 12,
+        "contribution": 21.439600000000002
       },
       "Catcher": {
-        "score": 49.882,
+        "score": 43.075,
         "weight": 0.08,
-        "player_count": 5,
-        "contribution": 3.99056
+        "player_count": 2,
+        "contribution": 3.446
       },
       "First Baseman": {
         "score": 0.0,
@@ -601,10 +490,10 @@
         "missing": true
       },
       "Shortstop": {
-        "score": 28.439999999999998,
+        "score": 41.884,
         "weight": 0.08,
-        "player_count": 1,
-        "contribution": 2.2752
+        "player_count": 2,
+        "contribution": 3.35072
       },
       "Left Fielder": {
         "score": 0.0,
@@ -635,61 +524,61 @@
         "missing": true
       },
       "Outfielder": {
-        "score": 53.382,
+        "score": 48.172,
         "weight": 0.06,
-        "player_count": 9,
-        "contribution": 3.2029199999999998
+        "player_count": 5,
+        "contribution": 2.8903199999999996
       }
     },
     "top_players": [
       {
         "full_name": "Paul Skenes",
         "position": "Pitcher",
-        "overall_score": 74.7
+        "overall_score": 64.93
       },
       {
-        "full_name": "Bryan Reynolds",
-        "position": "Outfielder",
-        "overall_score": 58.92
+        "full_name": "Nick Gonzales",
+        "position": "Second Base",
+        "overall_score": 56.49
       },
       {
-        "full_name": "Luis L. Ortiz",
+        "full_name": "David Bednar",
         "position": "Pitcher",
-        "overall_score": 58.83
+        "overall_score": 56.22
       },
       {
-        "full_name": "Oneil Cruz",
-        "position": "Outfield",
-        "overall_score": 53.6
+        "full_name": "Isaac Mattson",
+        "position": "Pitcher",
+        "overall_score": 55.27
       },
       {
-        "full_name": "Joey Bart",
-        "position": "Catcher",
-        "overall_score": 52.91
+        "full_name": "Caleb Ferguson",
+        "position": "Pitcher",
+        "overall_score": 54.64
       }
     ]
   },
   {
-    "team_name": "Tampa Bay Rays",
-    "overall_score": 43.4,
-    "raw_score": 56.01,
-    "batting_score": 33.76,
-    "pitching_score": 27.85,
+    "team_name": "San Diego Padres",
+    "overall_score": 41.83,
+    "raw_score": 53.97,
+    "batting_score": 37.13,
+    "pitching_score": 25.63,
     "fielding_score": 50.0,
-    "roster_size": 54,
+    "roster_size": 26,
     "completeness_penalty": 0.225,
     "position_breakdown": {
       "Pitcher": {
-        "score": 65.018,
+        "score": 59.581999999999994,
         "weight": 0.35,
-        "player_count": 29,
-        "contribution": 22.7563
+        "player_count": 13,
+        "contribution": 20.853699999999996
       },
       "Catcher": {
-        "score": 42.36,
+        "score": 39.286,
         "weight": 0.08,
-        "player_count": 5,
-        "contribution": 3.3888
+        "player_count": 2,
+        "contribution": 3.1428800000000003
       },
       "First Baseman": {
         "score": 0.0,
@@ -713,10 +602,10 @@
         "missing": true
       },
       "Shortstop": {
-        "score": 38.108,
+        "score": 36.28,
         "weight": 0.08,
-        "player_count": 3,
-        "contribution": 3.04864
+        "player_count": 1,
+        "contribution": 2.9024
       },
       "Left Fielder": {
         "score": 0.0,
@@ -747,61 +636,61 @@
         "missing": true
       },
       "Outfielder": {
-        "score": 45.495999999999995,
+        "score": 64.4,
         "weight": 0.06,
-        "player_count": 8,
-        "contribution": 2.7297599999999997
+        "player_count": 6,
+        "contribution": 3.8640000000000003
       }
     },
     "top_players": [
       {
-        "full_name": "Jason Adam",
-        "position": "Pitcher",
-        "overall_score": 66.97
+        "full_name": "Bryce Johnson",
+        "position": "Outfielder",
+        "overall_score": 70.15
       },
       {
-        "full_name": "Edwin Uceta",
+        "full_name": "Nick Pivetta",
         "position": "Pitcher",
-        "overall_score": 62.16
+        "overall_score": 60.44
       },
       {
-        "full_name": "Kevin Kelly",
+        "full_name": "Adrian Morejon",
         "position": "Pitcher",
-        "overall_score": 62.02
+        "overall_score": 60.02
       },
       {
-        "full_name": "Zach Eflin",
-        "position": "Pitcher",
-        "overall_score": 59.48
+        "full_name": "Manny Machado",
+        "position": "Third Base",
+        "overall_score": 59.66
       },
       {
-        "full_name": "Ryan Pepiot",
-        "position": "Pitcher",
-        "overall_score": 58.18
+        "full_name": "Jackson Merrill",
+        "position": "Outfielder",
+        "overall_score": 56.62
       }
     ]
   },
   {
-    "team_name": "Texas Rangers",
-    "overall_score": 42.05,
-    "raw_score": 57.21,
-    "batting_score": 40.65,
-    "pitching_score": 20.12,
+    "team_name": "Athletics",
+    "overall_score": 40.13,
+    "raw_score": 51.78,
+    "batting_score": 43.6,
+    "pitching_score": 19.38,
     "fielding_score": 50.0,
-    "roster_size": 34,
-    "completeness_penalty": 0.265,
+    "roster_size": 26,
+    "completeness_penalty": 0.225,
     "position_breakdown": {
       "Pitcher": {
-        "score": 59.49,
+        "score": 52.032000000000004,
         "weight": 0.35,
-        "player_count": 18,
-        "contribution": 20.8215
+        "player_count": 13,
+        "contribution": 18.2112
       },
       "Catcher": {
-        "score": 42.842,
+        "score": 51.619,
         "weight": 0.08,
-        "player_count": 4,
-        "contribution": 3.42736
+        "player_count": 2,
+        "contribution": 4.12952
       },
       "First Baseman": {
         "score": 0.0,
@@ -825,11 +714,10 @@
         "missing": true
       },
       "Shortstop": {
-        "score": 0.0,
+        "score": 48.008,
         "weight": 0.08,
-        "player_count": 0,
-        "contribution": 0.0,
-        "missing": true
+        "player_count": 1,
+        "contribution": 3.8406400000000005
       },
       "Left Fielder": {
         "score": 0.0,
@@ -860,37 +748,149 @@
         "missing": true
       },
       "Outfielder": {
-        "score": 63.104,
+        "score": 55.522000000000006,
         "weight": 0.06,
-        "player_count": 7,
-        "contribution": 3.78624
+        "player_count": 5,
+        "contribution": 3.3313200000000003
       }
     },
     "top_players": [
       {
-        "full_name": "Dustin Harris",
+        "full_name": "Jacob Wilson",
+        "position": "Shortstop",
+        "overall_score": 60.01
+      },
+      {
+        "full_name": "Brent Rooker",
         "position": "Outfielder",
-        "overall_score": 73.75
+        "overall_score": 59.37
       },
       {
-        "full_name": "Nathan Eovaldi",
-        "position": "Pitcher",
-        "overall_score": 62.27
+        "full_name": "Nick Kurtz",
+        "position": "First Base",
+        "overall_score": 54.57
       },
       {
-        "full_name": "Cody Bradford",
+        "full_name": "Michael Kelly",
         "position": "Pitcher",
-        "overall_score": 56.23
+        "overall_score": 54.4
       },
       {
-        "full_name": "Marc Church",
-        "position": "Pitcher",
-        "overall_score": 54.41
+        "full_name": "Austin Wynns",
+        "position": "Catcher",
+        "overall_score": 54.1
+      }
+    ]
+  },
+  {
+    "team_name": "St. Louis Cardinals",
+    "overall_score": 39.93,
+    "raw_score": 51.53,
+    "batting_score": 40.49,
+    "pitching_score": 24.92,
+    "fielding_score": 50.0,
+    "roster_size": 26,
+    "completeness_penalty": 0.225,
+    "position_breakdown": {
+      "Pitcher": {
+        "score": 56.806,
+        "weight": 0.35,
+        "player_count": 13,
+        "contribution": 19.882099999999998
+      },
+      "Catcher": {
+        "score": 47.428,
+        "weight": 0.08,
+        "player_count": 2,
+        "contribution": 3.79424
+      },
+      "First Baseman": {
+        "score": 0.0,
+        "weight": 0.07,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Second Baseman": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Third Baseman": {
+        "score": 0.0,
+        "weight": 0.07,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Shortstop": {
+        "score": 38.272000000000006,
+        "weight": 0.08,
+        "player_count": 1,
+        "contribution": 3.0617600000000005
+      },
+      "Left Fielder": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Center Fielder": {
+        "score": 0.0,
+        "weight": 0.08,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Right Fielder": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Designated Hitter": {
+        "score": 0.0,
+        "weight": 0.05,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Outfielder": {
+        "score": 43.873999999999995,
+        "weight": 0.06,
+        "player_count": 2,
+        "contribution": 2.6324399999999994
+      }
+    },
+    "top_players": [
+      {
+        "full_name": "Jos\u00e9 Ferm\u00edn",
+        "position": "Second Base",
+        "overall_score": 71.0
       },
       {
-        "full_name": "Michael Lorenzen",
+        "full_name": "Sonny Gray",
         "position": "Pitcher",
-        "overall_score": 53.73
+        "overall_score": 58.97
+      },
+      {
+        "full_name": "Alec Burleson",
+        "position": "First Base",
+        "overall_score": 56.29
+      },
+      {
+        "full_name": "Brendan Donovan",
+        "position": "Second Base",
+        "overall_score": 56.15
+      },
+      {
+        "full_name": "Phil Maton",
+        "position": "Pitcher",
+        "overall_score": 55.37
       }
     ]
   }

@@ -67,7 +67,7 @@ def save_scored_data(scored_df: pd.DataFrame, output_dir: str, season: int):
     
     return output_file
 
-def generate_summary_report(scored_df: pd.DataFrame, season: int):
+def generate_summary_report(scored_df: pd.DataFrame, season: int, show_all_scores: bool = False):
     """Generate a summary report of the scoring results"""
     print(f"\n📈 Player Scoring Summary Report - {season}")
     print("=" * 50)
@@ -83,13 +83,56 @@ def generate_summary_report(scored_df: pd.DataFrame, season: int):
     for idx, player in top_players.iterrows():
         print(f"  {player['overall_score']:5.1f} | {player['full_name']:20s} | {player['team_name']} ({player['position']})")
     
-    # Best by position
-    print(f"\n🎯 Best Player by Position:")
-    position_leaders = scored_df.loc[scored_df.groupby('position')['overall_score'].idxmax()]
-    position_leaders = position_leaders.sort_values('overall_score', ascending=False)
+    if show_all_scores:
+        print(f"\n📊 DETAILED SCORE BREAKDOWN - Top 20 Players")
+        print("=" * 80)
+        detailed_top = scored_df.nlargest(20, 'overall_score')[['full_name', 'team_name', 'position', 
+                                                               'overall_score', 'batting_score', 
+                                                               'pitching_score', 'fielding_score']]
+        
+        print(f"{'Name':20s} {'Team':15s} {'Pos':12s} {'Overall':>7s} {'Batting':>7s} {'Pitching':>8s} {'Fielding':>8s}")
+        print("-" * 80)
+        
+        for idx, player in detailed_top.iterrows():
+            print(f"{player['full_name'][:19]:20s} "
+                  f"{player['team_name'][:14]:15s} "
+                  f"{player['position'][:11]:12s} "
+                  f"{player['overall_score']:7.1f} "
+                  f"{player['batting_score']:7.1f} "
+                  f"{player['pitching_score']:8.1f} "
+                  f"{player['fielding_score']:8.1f}")
+        
+        # Component leaders
+        print(f"\n🎯 COMPONENT LEADERS:")
+        print("-" * 30)
+        
+        batting_leader = scored_df.loc[scored_df['batting_score'].idxmax()]
+        pitching_leader = scored_df.loc[scored_df['pitching_score'].idxmax()]
+        fielding_leader = scored_df.loc[scored_df['fielding_score'].idxmax()]
+        
+        print(f"Best Batting:  {batting_leader['full_name']:20s} | {batting_leader['batting_score']:5.1f} | {batting_leader['team_name']} ({batting_leader['position']})")
+        print(f"Best Pitching: {pitching_leader['full_name']:20s} | {pitching_leader['pitching_score']:5.1f} | {pitching_leader['team_name']} ({pitching_leader['position']})")
+        print(f"Best Fielding: {fielding_leader['full_name']:20s} | {fielding_leader['fielding_score']:5.1f} | {fielding_leader['team_name']} ({fielding_leader['position']})")
+        
+        # Position breakdowns
+        print(f"\n📍 BEST PLAYERS BY POSITION:")
+        print("-" * 35)
+        position_leaders = scored_df.loc[scored_df.groupby('position')['overall_score'].idxmax()]
+        position_leaders = position_leaders.sort_values('overall_score', ascending=False)
+        
+        for _, player in position_leaders.head(15).iterrows():
+            print(f"{player['position']:15s}: {player['overall_score']:5.1f} | {player['full_name']:20s} | {player['team_name']}")
+            if show_all_scores:
+                print(f"{'':15s}  Batting: {player['batting_score']:4.1f} | Pitching: {player['pitching_score']:4.1f} | Fielding: {player['fielding_score']:4.1f}")
     
-    for _, player in position_leaders.head(10).iterrows():
-        print(f"  {player['position']:15s}: {player['overall_score']:5.1f} | {player['full_name']} ({player['team_name']})")
+    # Best by position (summary)
+    else:
+        print(f"\n🎯 Best Player by Position:")
+        position_leaders = scored_df.loc[scored_df.groupby('position')['overall_score'].idxmax()]
+        position_leaders = position_leaders.sort_values('overall_score', ascending=False)
+        
+        for _, player in position_leaders.head(10).iterrows():
+            print(f"  {player['position']:15s}: {player['overall_score']:5.1f} | {player['full_name']} ({player['team_name']})")
     
     # Score distribution by component
     print(f"\n📊 Score Distribution by Component:")
@@ -97,7 +140,29 @@ def generate_summary_report(scored_df: pd.DataFrame, season: int):
     for component in components:
         if component in scored_df.columns:
             avg_score = scored_df[component].mean()
-            print(f"  {component:15s}: {avg_score:5.2f} average")
+            std_score = scored_df[component].std()
+            print(f"  {component:15s}: {avg_score:5.2f} average (±{std_score:4.2f} std dev)")
+    
+    if show_all_scores:
+        # Team averages
+        print(f"\n🏟️ TEAM AVERAGES (Top 10):")
+        print("-" * 25)
+        team_averages = scored_df.groupby('team_name').agg({
+            'overall_score': 'mean',
+            'batting_score': 'mean', 
+            'pitching_score': 'mean',
+            'fielding_score': 'mean'
+        }).round(1).sort_values('overall_score', ascending=False)
+        
+        print(f"{'Team':20s} {'Overall':>7s} {'Batting':>7s} {'Pitching':>8s} {'Fielding':>8s}")
+        print("-" * 55)
+        
+        for team, scores in team_averages.head(10).iterrows():
+            print(f"{team[:19]:20s} "
+                  f"{scores['overall_score']:7.1f} "
+                  f"{scores['batting_score']:7.1f} "
+                  f"{scores['pitching_score']:8.1f} "
+                  f"{scores['fielding_score']:8.1f}")
 
 def main():
     parser = argparse.ArgumentParser(description='Score MLB players based on statistics')
@@ -105,6 +170,7 @@ def main():
     parser.add_argument('--data-dir', default='data', help='Data directory')
     parser.add_argument('--output-dir', default='data/processed', help='Output directory')
     parser.add_argument('--analyze-only', action='store_true', help='Only analyze data quality, do not score')
+    parser.add_argument('--show-scores', action='store_true', help='Show detailed score breakdowns for all components')
     
     args = parser.parse_args()
     
@@ -134,10 +200,13 @@ def main():
         output_file = save_scored_data(scored_df, args.output_dir, args.season)
         
         # Generate summary report
-        generate_summary_report(scored_df, args.season)
+        generate_summary_report(scored_df, args.season, args.show_scores)
         
         print(f"\n🎉 Player scoring completed successfully!")
         print(f"📄 Results saved to: {output_file}")
+        
+        if not args.show_scores:
+            print(f"\n💡 Tip: Use --show-scores for detailed component breakdowns")
         
     except FileNotFoundError as e:
         print(f"❌ Error: {e}")

@@ -1,4 +1,669 @@
 player_id,full_name,first_name,last_name,position,position_code,jersey_number,team_id,team_name,team_abbreviation
+677941,Jordyn Adams,,,Outfielder,9,39,108,Los Angeles Angels,LAA
+666176,Jo Adell,,,Outfielder,9,7,108,Los Angeles Angels,LAA
+501303,Ehire Adrianza,,,Third Base,5,13,108,Los Angeles Angels,LAA
+691951,Sam Aldegheri,,,Pitcher,1,66,108,Los Angeles Angels,LAA
+542881,Tyler Anderson,,,Pitcher,1,31,108,Los Angeles Angels,LAA
+657508,Mike Baumann,,,Pitcher,1,53,108,Los Angeles Angels,LAA
+656271,Brock Burke,,,Pitcher,1,46,108,Los Angeles Angels,LAA
+641432,Willie Calhoun,,,First Base,3,5,108,Los Angeles Angels,LAA
+672569,Gustavo Campero,,,Outfielder,9,51,108,Los Angeles Angels,LAA
+656288,Griffin Canning,,,Pitcher,1,47,108,Los Angeles Angels,LAA
+643256,Adam Cimber,,,Pitcher,1,,108,Los Angeles Angels,LAA
+542585,José Cisnero,,,Pitcher,1,67,108,Los Angeles Angels,LAA
+672710,Roansy Contreras,,,Pitcher,1,57,108,Los Angeles Angels,LAA
+668968,Hans Crouse,,,Pitcher,1,52,108,Los Angeles Angels,LAA
+456501,Johnny Cueto,,,Pitcher,1,36,108,Los Angeles Angels,LAA
+702674,Caden Dana,,,Pitcher,1,36,108,Los Angeles Angels,LAA
+669721,Davis Daniel,,,Pitcher,1,58,108,Los Angeles Angels,LAA
+672282,Reid Detmers,,,Pitcher,1,48,108,Los Angeles Angels,LAA
+592273,Brandon Drury,,,Second Base,4,23,108,Los Angeles Angels,LAA
+608032,Carlos Estévez,,,Pitcher,1,53,108,Los Angeles Angels,LAA
+608334,Carson Fulmer,,,Pitcher,1,41,108,Los Angeles Angels,LAA
+472610,Luis García,,,Pitcher,1,66,108,Los Angeles Angels,LAA
+607237,Amir Garrett,,,Pitcher,1,,108,Los Angeles Angels,LAA
+592348,Niko Goodrum,,,Third Base,5,28,108,Los Angeles Angels,LAA
+641645,Luis Guillorme,,,Second Base,4,15,108,Los Angeles Angels,LAA
+543305,Aaron Hicks,,,Outfielder,9,12,108,Los Angeles Angels,LAA
+669374,Keston Hiura,,,Second Base,4,13,108,Los Angeles Angels,LAA
+690829,Ben Joyce,,,Pitcher,1,44,108,Los Angeles Angels,LAA
+694359,Niko Kavadas,,,First Base,3,28,108,Los Angeles Angels,LAA
+686799,Jack Kochanowicz,,,Pitcher,1,64,108,Los Angeles Angels,LAA
+670219,Zac Kristofak,,,Pitcher,1,72,108,Los Angeles Angels,LAA
+641779,Charles Leblanc,,,Third Base,5,33,108,Los Angeles Angels,LAA
+605346,Jack López,,,Second Base,4,10,108,Los Angeles Angels,LAA
+665896,José Marte,,,Pitcher,1,68,108,Los Angeles Angels,LAA
+682989,Victor Mederos,,,Pitcher,1,62,108,Los Angeles Angels,LAA
+668943,Ryan Miller,,,Pitcher,1,53,108,Los Angeles Angels,LAA
+666160,Mickey Moniak,,,Outfielder,8,16,108,Los Angeles Angels,LAA
+519043,Matt Moore,,,Pitcher,1,55,108,Los Angeles Angels,LAA
+687263,Zach Neto,,,Shortstop,6,9,108,Los Angeles Angels,LAA
+681351,Logan O'Hoppe,,,Catcher,2,14,108,Los Angeles Angels,LAA
+677347,Kyren Paris,,,Second Base,4,19,108,Los Angeles Angels,LAA
+607680,Kevin Pillar,,,Outfielder,8,12,108,Los Angeles Angels,LAA
+668676,Zach Plesac,,,Pitcher,1,34,108,Los Angeles Angels,LAA
+650671,José Quijada,,,Pitcher,1,65,108,Los Angeles Angels,LAA
+543685,Anthony Rendon,,,Third Base,5,6,108,Los Angeles Angels,LAA
+650859,Luis Rengifo,,,Third Base,5,2,108,Los Angeles Angels,LAA
+670046,Kenny Rosenberg,,,Pitcher,1,78,108,Los Angeles Angels,LAA
+663776,Patrick Sandoval,,,Pitcher,1,43,108,Los Angeles Angels,LAA
+593934,Miguel Sanó,,,Third Base,5,22,108,Los Angeles Angels,LAA
+694384,Nolan Schanuel,,,First Base,3,18,108,Los Angeles Angels,LAA
+681217,Chase Silseth,,,Pitcher,1,63,108,Los Angeles Angels,LAA
+667755,José Soriano,,,Pitcher,1,59,108,Los Angeles Angels,LAA
+683021,Michael Stefanic,,,Second Base,4,38,108,Los Angeles Angels,LAA
+519326,Hunter Strickland,,,Pitcher,1,61,108,Los Angeles Angels,LAA
+660761,José Suarez,,,Pitcher,1,54,108,Los Angeles Angels,LAA
+669326,Bryce Teodosio,,,Outfielder,8,22,108,Los Angeles Angels,LAA
+642136,Matt Thaiss,,,Catcher,2,21,108,Los Angeles Angels,LAA
+545361,Mike Trout,,,Outfielder,8,27,108,Los Angeles Angels,LAA
+657061,Cole Tucker,,,Third Base,5,8,108,Los Angeles Angels,LAA
+676572,Eric Wagaman,,,Third Base,5,34,108,Los Angeles Angels,LAA
+681806,Andrew Wantz,,,Pitcher,1,60,108,Los Angeles Angels,LAA
+621493,Taylor Ward,,,Outfielder,7,3,108,Los Angeles Angels,LAA
+666171,Ryan Zeferjahn,,,Pitcher,1,56,108,Los Angeles Angels,LAA
+670871,Guillo Zuñiga,,,Pitcher,1,49,108,Los Angeles Angels,LAA
+677942,Blaze Alexander,,,Shortstop,6,9,109,Arizona Diamondbacks,AZ
+663531,Logan Allen,,,Pitcher,1,,109,Arizona Diamondbacks,AZ
+571466,Tucker Barnhart,,,Catcher,2,16,109,Arizona Diamondbacks,AZ
+678489,Jorge Barrosa,,,Outfielder,7,1,109,Arizona Diamondbacks,AZ
+605137,Josh Bell,,,First Base,3,36,109,Arizona Diamondbacks,AZ
+621199,Matt Bowman,,,Pitcher,1,55,109,Arizona Diamondbacks,AZ
+682998,Corbin Carroll,,,Outfielder,8,7,109,Arizona Diamondbacks,AZ
+528748,Humberto Castellanos,,,Pitcher,1,54,109,Arizona Diamondbacks,AZ
+612434,Miguel Castro,,,Pitcher,1,50,109,Arizona Diamondbacks,AZ
+677944,Slade Cecconi,,,Pitcher,1,43,109,Arizona Diamondbacks,AZ
+680728,Adrian Del Castillo,,,Catcher,2,25,109,Arizona Diamondbacks,AZ
+700270,Yilber Díaz,,,Pitcher,1,45,109,Arizona Diamondbacks,AZ
+571670,Dylan Floro,,,Pitcher,1,55,109,Arizona Diamondbacks,AZ
+666818,Luis Frías,,,Pitcher,1,65,109,Arizona Diamondbacks,AZ
+668678,Zac Gallen,,,Pitcher,1,23,109,Arizona Diamondbacks,AZ
+656464,Kevin Ginkel,,,Pitcher,1,37,109,Arizona Diamondbacks,AZ
+545341,Randal Grichuk,,,Outfielder,9,15,109,Arizona Diamondbacks,AZ
+641645,Luis Guillorme,,,Second Base,4,13,109,Arizona Diamondbacks,AZ
+666971,Lourdes Gurriel Jr.,,,Outfielder,7,12,109,Arizona Diamondbacks,AZ
+674072,Tommy Henry,,,Pitcher,1,47,109,Arizona Diamondbacks,AZ
+645444,Jose Herrera,,,Catcher,2,11,109,Arizona Diamondbacks,AZ
+676714,Brandon Hughes,,,Pitcher,1,56,109,Arizona Diamondbacks,AZ
+682175,Joe Jacques,,,Pitcher,1,55,109,Arizona Diamondbacks,AZ
+686826,Bryce Jarvis,,,Pitcher,1,40,109,Arizona Diamondbacks,AZ
+518876,Merrill Kelly,,,Pitcher,1,29,109,Arizona Diamondbacks,AZ
+573009,Joe Mantiply,,,Pitcher,1,35,109,Arizona Diamondbacks,AZ
+606466,Ketel Marte,,,Second Base,4,4,109,Arizona Diamondbacks,AZ
+679885,Justin Martinez,,,Pitcher,1,63,109,Arizona Diamondbacks,AZ
+664983,Jake McCarthy,,,Outfielder,8,31,109,Arizona Diamondbacks,AZ
+543518,Scott McGough,,,Pitcher,1,30,109,Arizona Diamondbacks,AZ
+691441,Cristian Mena,,,Pitcher,1,64,109,Arizona Diamondbacks,AZ
+656756,Jordan Montgomery,,,Pitcher,1,52,109,Arizona Diamondbacks,AZ
+672515,Gabriel Moreno,,,Catcher,2,14,109,Arizona Diamondbacks,AZ
+669459,Kyle Nelson,,,Pitcher,1,24,109,Arizona Diamondbacks,AZ
+669194,Ryne Nelson,,,Pitcher,1,19,109,Arizona Diamondbacks,AZ
+621028,Kevin Newman,,,Shortstop,6,18,109,Arizona Diamondbacks,AZ
+592626,Joc Pederson,,,Designated Hitter,10,3,109,Arizona Diamondbacks,AZ
+672695,Geraldo Perdomo,,,Shortstop,6,2,109,Arizona Diamondbacks,AZ
+607054,Jace Peterson,,,Shortstop,6,6,109,Arizona Diamondbacks,AZ
+694297,Brandon Pfaadt,,,Pitcher,1,32,109,Arizona Diamondbacks,AZ
+640462,A.J. Puk,,,Pitcher,1,33,109,Arizona Diamondbacks,AZ
+593958,Eduardo Rodriguez,,,Pitcher,1,57,109,Arizona Diamondbacks,AZ
+685314,Andrew Saalfrank,,,Pitcher,1,27,109,Arizona Diamondbacks,AZ
+623149,Paul Sewald,,,Pitcher,1,38,109,Arizona Diamondbacks,AZ
+656976,Pavin Smith,,,Outfielder,7,26,109,Arizona Diamondbacks,AZ
+553993,Eugenio Suárez,,,Third Base,5,28,109,Arizona Diamondbacks,AZ
+677950,Alek Thomas,,,Outfielder,8,5,109,Arizona Diamondbacks,AZ
+657044,Ryan Thompson,,,Pitcher,1,81,109,Arizona Diamondbacks,AZ
+600986,Thyago Vieira,,,Pitcher,1,49,109,Arizona Diamondbacks,AZ
+572233,Christian Walker,,,First Base,3,53,109,Arizona Diamondbacks,AZ
+686796,Blake Walston,,,Pitcher,1,48,109,Arizona Diamondbacks,AZ
+669211,Keegan Akin,,,Pitcher,1,45,110,Baltimore Orioles,BAL
+641329,Bryan Baker,,,Pitcher,1,43,110,Baltimore Orioles,BAL
+675915,David Bañuelos,,,Catcher,2,91,110,Baltimore Orioles,BAL
+657508,Mike Baumann,,,Pitcher,1,53,110,Baltimore Orioles,BAL
+621199,Matt Bowman,,,Pitcher,1,51,110,Baltimore Orioles,BAL
+680694,Kyle Bradish,,,Pitcher,1,38,110,Baltimore Orioles,BAL
+669203,Corbin Burnes,,,Pitcher,1,39,110,Baltimore Orioles,BAL
+666974,Yennier Cano,,,Pitcher,1,78,110,Baltimore Orioles,BAL
+543056,Danny Coulombe,,,Pitcher,1,54,110,Baltimore Orioles,BAL
+681297,Colton Cowser,,,Outfielder,7,17,110,Baltimore Orioles,BAL
+656353,Tucker Davidson,,,Pitcher,1,67,110,Baltimore Orioles,BAL
+622554,Seranthony Domínguez,,,Pitcher,1,56,110,Baltimore Orioles,BAL
+621107,Zach Eflin,,,Pitcher,1,24,110,Baltimore Orioles,BAL
+669720,Austin Hays,,,Outfielder,7,21,110,Baltimore Orioles,BAL
+669169,Jonathan Heasley,,,Pitcher,1,52,110,Baltimore Orioles,BAL
+683002,Gunnar Henderson,,,Shortstop,6,2,110,Baltimore Orioles,BAL
+702616,Jackson Holliday,,,Second Base,4,7,110,Baltimore Orioles,BAL
+608344,Cole Irvin,,,Pitcher,1,19,110,Baltimore Orioles,BAL
+650391,Eloy Jiménez,,,Designated Hitter,10,72,110,Baltimore Orioles,BAL
+669288,Daniel Johnson,,,Outfielder,8,53,110,Baltimore Orioles,BAL
+643393,Tony Kemp,,,Second Base,4,12,110,Baltimore Orioles,BAL
+518886,Craig Kimbrel,,,Pitcher,1,46,110,Baltimore Orioles,BAL
+677008,Heston Kjerstad,,,Outfielder,7,13,110,Baltimore Orioles,BAL
+665152,Dean Kremer,,,Pitcher,1,64,110,Baltimore Orioles,BAL
+640454,Matt Krook,,,Pitcher,1,66,110,Baltimore Orioles,BAL
+622761,Jorge Mateo,,,Second Base,4,3,110,Baltimore Orioles,BAL
+665155,Nick Maton,,,Third Base,5,63,110,Baltimore Orioles,BAL
+691723,Coby Mayo,,,Third Base,5,16,110,Baltimore Orioles,BAL
+543510,James McCann,,,Catcher,2,27,110,Baltimore Orioles,BAL
+694646,Chayce McDermott,,,Pitcher,1,60,110,Baltimore Orioles,BAL
+663630,Ryan McKenna,,,Outfielder,9,26,110,Baltimore Orioles,BAL
+607644,John Means,,,Pitcher,1,47,110,Baltimore Orioles,BAL
+663624,Ryan Mountcastle,,,First Base,3,6,110,Baltimore Orioles,BAL
+656775,Cedric Mullins,,,Outfielder,8,31,110,Baltimore Orioles,BAL
+657697,Vinny Nittoli,,,Pitcher,1,67,110,Baltimore Orioles,BAL
+681393,Connor Norby,,,Second Base,4,12,110,Baltimore Orioles,BAL
+656811,Ryan O'Hearn,,,First Base,3,32,110,Baltimore Orioles,BAL
+665506,Cristian Pache,,,Outfielder,8,26,110,Baltimore Orioles,BAL
+672335,Cionel Pérez,,,Pitcher,1,58,110,Baltimore Orioles,BAL
+700249,Cade Povich,,,Pitcher,1,37,110,Baltimore Orioles,BAL
+670990,Yohan Ramírez,,,Pitcher,1,48,110,Baltimore Orioles,BAL
+656896,Emmanuel Rivera,,,Third Base,5,26,110,Baltimore Orioles,BAL
+680570,Grayson Rodriguez,,,Pitcher,1,30,110,Baltimore Orioles,BAL
+669432,Trevor Rogers,,,Pitcher,1,28,110,Baltimore Orioles,BAL
+668939,Adley Rutschman,,,Catcher,2,35,110,Baltimore Orioles,BAL
+623993,Anthony Santander,,,Outfielder,9,25,110,Baltimore Orioles,BAL
+681882,Colin Selby,,,Pitcher,1,60,110,Baltimore Orioles,BAL
+596103,Austin Slater,,,Outfielder,9,15,110,Baltimore Orioles,BAL
+572143,Burch Smith,,,Pitcher,1,40,110,Baltimore Orioles,BAL
+642397,Gregory Soto,,,Pitcher,1,65,110,Baltimore Orioles,BAL
+670869,Livan Soto,,,Shortstop,6,73,110,Baltimore Orioles,BAL
+669065,Kyle Stowers,,,Outfielder,7,28,110,Baltimore Orioles,BAL
+544150,Albert Suárez,,,Pitcher,1,49,110,Baltimore Orioles,BAL
+622253,Dillon Tate,,,Pitcher,1,55,110,Baltimore Orioles,BAL
+602104,Ramón Urías,,,Third Base,5,29,110,Baltimore Orioles,BAL
+663989,Nick Vespi,,,Pitcher,1,79,110,Baltimore Orioles,BAL
+600986,Thyago Vieira,,,Pitcher,1,40,110,Baltimore Orioles,BAL
+657097,Jacob Webb,,,Pitcher,1,71,110,Baltimore Orioles,BAL
+669330,Tyler Wells,,,Pitcher,1,68,110,Baltimore Orioles,BAL
+676059,Jordan Westburg,,,Third Base,5,11,110,Baltimore Orioles,BAL
+677800,Wilyer Abreu,,,Outfielder,9,52,111,Boston Red Sox,BOS
+502624,Chase Anderson,,,Pitcher,1,48,111,Boston Red Sox,BOS
+678394,Brayan Bello,,,Pitcher,1,66,111,Boston Red Sox,BOS
+657514,Brennan Bernardino,,,Pitcher,1,83,111,Boston Red Sox,BOS
+592155,Cam Booser,,,Pitcher,1,71,111,Boston Red Sox,BOS
+663462,Isaiah Campbell,,,Pitcher,1,44,111,Boston Red Sox,BOS
+671213,Triston Casas,,,First Base,3,36,111,Boston Red Sox,BOS
+643265,Garrett Cooper,,,First Base,3,28,111,Boston Red Sox,BOS
+676710,Kutter Crawford,,,Pitcher,1,50,111,Boston Red Sox,BOS
+681867,Cooper Criswell,,,Pitcher,1,64,111,Boston Red Sox,BOS
+666915,Bobby Dalbec,,,First Base,3,29,111,Boston Red Sox,BOS
+646240,Rafael Devers,,,Third Base,5,11,111,Boston Red Sox,BOS
+680776,Jarren Duran,,,Outfielder,8,16,111,Boston Red Sox,BOS
+690916,Richard Fitts,,,Pitcher,1,80,111,Boston Red Sox,BOS
+472610,Luis García,,,Pitcher,1,40,111,Boston Red Sox,BOS
+681508,Mickey Gasper,,,Second Base,4,77,111,Boston Red Sox,BOS
+663853,Romy Gonzalez,,,Second Base,4,23,111,Boston Red Sox,BOS
+687093,Vaughn Grissom,,,Second Base,4,5,111,Boston Red Sox,BOS
+692285,Luis Guerrero,,,Pitcher,1,99,111,Boston Red Sox,BOS
+666152,David Hamilton,,,Shortstop,6,70,111,Boston Red Sox,BOS
+623168,Tyler Heineman,,,Catcher,2,32,111,Boston Red Sox,BOS
+448179,Rich Hill,,,Pitcher,1,44,111,Boston Red Sox,BOS
+690544,Bailey Horn,,,Pitcher,1,78,111,Boston Red Sox,BOS
+656557,Tanner Houck,,,Pitcher,1,89,111,Boston Red Sox,BOS
+682175,Joe Jacques,,,Pitcher,1,78,111,Boston Red Sox,BOS
+643376,Danny Jansen,,,Catcher,2,28,111,Boston Red Sox,BOS
+445276,Kenley Jansen,,,Pitcher,1,74,111,Boston Red Sox,BOS
+641745,Brad Keller,,,Pitcher,1,46,111,Boston Red Sox,BOS
+677161,Zack Kelly,,,Pitcher,1,76,111,Boston Red Sox,BOS
+455119,Chris Martin,,,Pitcher,1,55,111,Boston Red Sox,BOS
+624512,Reese McGuire,,,Catcher,2,3,111,Boston Red Sox,BOS
+641933,Tyler O'Neill,,,Outfielder,7,17,111,Boston Red Sox,BOS
+572020,James Paxton,,,Pitcher,1,65,111,Boston Red Sox,BOS
+683068,Zach Penrod,,,Pitcher,1,67,111,Boston Red Sox,BOS
+601713,Nick Pivetta,,,Pitcher,1,37,111,Boston Red Sox,BOS
+682990,Quinn Priester,,,Pitcher,1,68,111,Boston Red Sox,BOS
+678882,Ceddanne Rafaela,,,Shortstop,6,43,111,Boston Red Sox,BOS
+670990,Yohan Ramírez,,,Pitcher,1,48,111,Boston Red Sox,BOS
+608701,Rob Refsnyder,,,Outfielder,7,30,111,Boston Red Sox,BOS
+622569,Pablo Reyes,,,Third Base,5,19,111,Boston Red Sox,BOS
+570257,Joely Rodríguez,,,Pitcher,1,56,111,Boston Red Sox,BOS
+670097,Zack Short,,,Third Base,5,18,111,Boston Red Sox,BOS
+663767,Chase Shugart,,,Pitcher,1,61,111,Boston Red Sox,BOS
+608371,Lucas Sims,,,Pitcher,1,39,111,Boston Red Sox,BOS
+686580,Justin Slaten,,,Pitcher,1,63,111,Boston Red Sox,BOS
+642086,Dominic Smith,,,First Base,3,2,111,Boston Red Sox,BOS
+686765,Nick Sogard,,,Second Base,4,75,111,Boston Red Sox,BOS
+596115,Trevor Story,,,Shortstop,6,10,111,Boston Red Sox,BOS
+683822,Naoyuki Uwasawa,,,Pitcher,1,39,111,Boston Red Sox,BOS
+665839,Enmanuel Valdez,,,Second Base,4,47,111,Boston Red Sox,BOS
+669711,Greg Weissert,,,Pitcher,1,57,111,Boston Red Sox,BOS
+642197,Jamie Westbrook,,,Second Base,4,73,111,Boston Red Sox,BOS
+676477,Garrett Whitlock,,,Pitcher,1,22,111,Boston Red Sox,BOS
+670174,Josh Winckowski,,,Pitcher,1,25,111,Boston Red Sox,BOS
+622259,Trey Wingenter,,,Pitcher,1,61,111,Boston Red Sox,BOS
+657136,Connor Wong,,,Catcher,2,12,111,Boston Red Sox,BOS
+807799,Masataka Yoshida,,,Outfielder,7,7,111,Boston Red Sox,BOS
+682634,Kevin Alcántara,,,Outfielder,9,13,112,Chicago Cubs,CHC
+622075,Yency Almonte,,,Pitcher,1,25,112,Chicago Cubs,CHC
+640470,Adbert Alzolay,,,Pitcher,1,73,112,Chicago Cubs,CHC
+665804,Miguel Amaya,,,Catcher,2,9,112,Chicago Cubs,CHC
+542888,Shawn Armstrong,,,Pitcher,1,64,112,Chicago Cubs,CHC
+665871,Javier Assad,,,Pitcher,1,72,112,Chicago Cubs,CHC
+641355,Cody Bellinger,,,Outfielder,8,24,112,Chicago Cubs,CHC
+542194,Christian Bethancourt,,,Catcher,2,60,112,Chicago Cubs,CHC
+685801,Hunter Bigge,,,Pitcher,1,47,112,Chicago Cubs,CHC
+623520,David Bote,,,Third Base,5,13,112,Chicago Cubs,CHC
+605155,Colten Brewer,,,Pitcher,1,54,112,Chicago Cubs,CHC
+676962,Ben Brown,,,Pitcher,1,32,112,Chicago Cubs,CHC
+683737,Michael Busch,,,First Base,3,29,112,Chicago Cubs,CHC
+672744,Alexander Canario,,,Outfielder,7,4,112,Chicago Cubs,CHC
+643265,Garrett Cooper,,,First Base,3,41,112,Chicago Cubs,CHC
+691718,Pete Crow-Armstrong,,,Outfielder,8,52,112,Chicago Cubs,CHC
+621016,Jose Cuas,,,Pitcher,1,74,112,Chicago Cubs,CHC
+543228,Yan Gomes,,,Catcher,2,15,112,Chicago Cubs,CHC
+664023,Ian Happ,,,Outfielder,7,8,112,Chicago Cubs,CHC
+543294,Kyle Hendricks,,,Pitcher,1,28,112,Chicago Cubs,CHC
+687863,Porter Hodge,,,Pitcher,1,37,112,Chicago Cubs,CHC
+663538,Nico Hoerner,,,Second Base,4,2,112,Chicago Cubs,CHC
+668970,Gavin Hollowell,,,Pitcher,1,46,112,Chicago Cubs,CHC
+684007,Shota Imanaga,,,Pitcher,1,18,112,Chicago Cubs,CHC
+668873,Caleb Kilian,,,Pitcher,1,45,112,Chicago Cubs,CHC
+643410,Mark Leiter Jr.,,,Pitcher,1,38,112,Chicago Cubs,CHC
+681432,Luke Little,,,Pitcher,1,43,112,Chicago Cubs,CHC
+605347,Jorge López,,,Pitcher,1,41,112,Chicago Cubs,CHC
+663992,Richard Lovelady,,,Pitcher,1,49,112,Chicago Cubs,CHC
+663611,Nick Madrigal,,,Third Base,5,1,112,Chicago Cubs,CHC
+670156,Miles Mastrobuoni,,,Shortstop,6,20,112,Chicago Cubs,CHC
+657240,Julian Merryweather,,,Pitcher,1,66,112,Chicago Cubs,CHC
+670223,Matt Mervis,,,First Base,3,22,112,Chicago Cubs,CHC
+668338,Tyson Miller,,,Pitcher,1,49,112,Chicago Cubs,CHC
+666624,Christopher Morel,,,Third Base,5,5,112,Chicago Cubs,CHC
+680891,Jack Neely,,,Pitcher,1,47,112,Chicago Cubs,CHC
+593576,Héctor Neris,,,Pitcher,1,51,112,Chicago Cubs,CHC
+621512,Tomás Nido,,,Catcher,2,6,112,Chicago Cubs,CHC
+694037,Daniel Palencia,,,Pitcher,1,48,112,Chicago Cubs,CHC
+660600,Enoli Paredes,,,Pitcher,1,59,112,Chicago Cubs,CHC
+670623,Isaac Paredes,,,Third Base,5,17,112,Chicago Cubs,CHC
+663878,Nate Pearson,,,Pitcher,1,56,112,Chicago Cubs,CHC
+681799,Ethan Roberts,,,Pitcher,1,39,112,Chicago Cubs,CHC
+592767,Drew Smyly,,,Pitcher,1,11,112,Chicago Cubs,CHC
+657006,Justin Steele,,,Pitcher,1,35,112,Chicago Cubs,CHC
+673548,Seiya Suzuki,,,Outfielder,9,27,112,Chicago Cubs,CHC
+621020,Dansby Swanson,,,Shortstop,6,7,112,Chicago Cubs,CHC
+592791,Jameson Taillon,,,Pitcher,1,50,112,Chicago Cubs,CHC
+643565,Mike Tauchman,,,Outfielder,9,40,112,Chicago Cubs,CHC
+624522,Keegan Thompson,,,Pitcher,1,71,112,Chicago Cubs,CHC
+622786,Jesus Tinoco,,,Pitcher,1,0,112,Chicago Cubs,CHC
+676679,Luis Vázquez,,,Shortstop,6,12,112,Chicago Cubs,CHC
+669713,Hayden Wesneski,,,Pitcher,1,19,112,Chicago Cubs,CHC
+696136,Jordan Wicks,,,Pitcher,1,36,112,Chicago Cubs,CHC
+622259,Trey Wingenter,,,Pitcher,1,38,112,Chicago Cubs,CHC
+621550,Patrick Wisdom,,,First Base,3,16,112,Chicago Cubs,CHC
+671096,Andrew Abbott,,,Pitcher,1,41,113,Cincinnati Reds,CIN
+687924,Julian Aguiar,,,Pitcher,1,39,113,Cincinnati Reds,CIN
+622088,Tejay Antone,,,Pitcher,1,70,113,Cincinnati Reds,CIN
+668933,Graham Ashcraft,,,Pitcher,1,51,113,Cincinnati Reds,CIN
+666181,Will Benson,,,Outfielder,7,30,113,Cincinnati Reds,CIN
+571527,David Buchanan,,,Pitcher,1,58,113,Cincinnati Reds,CIN
+641427,Alan Busenitz,,,Pitcher,1,49,113,Cincinnati Reds,CIN
+600869,Jeimer Candelario,,,Third Base,5,3,113,Cincinnati Reds,CIN
+668843,Conner Capel,,,Outfielder,7,49,113,Cincinnati Reds,CIN
+518585,Fernando Cruz,,,Pitcher,1,63,113,Cincinnati Reds,CIN
+682829,Elly De La Cruz,,,Shortstop,6,44,113,Cincinnati Reds,CIN
+664747,Alexis Díaz,,,Pitcher,1,43,113,Cincinnati Reds,CIN
+694362,Blake Dunn,,,Outfielder,7,59,113,Cincinnati Reds,CIN
+687952,Christian Encarnacion-Strand,,,First Base,3,33,113,Cincinnati Reds,CIN
+669289,Santiago Espinal,,,Third Base,5,4,113,Cincinnati Reds,CIN
+656413,Stuart Fairchild,,,Outfielder,8,17,113,Cincinnati Reds,CIN
+571656,Buck Farmer,,,Pitcher,1,46,113,Cincinnati Reds,CIN
+645801,Mike Ford,,,First Base,3,38,113,Cincinnati Reds,CIN
+641584,Jake Fraley,,,Outfielder,9,27,113,Cincinnati Reds,CIN
+664034,Ty France,,,First Base,3,2,113,Cincinnati Reds,CIN
+670770,TJ Friedl,,,Outfielder,8,29,113,Cincinnati Reds,CIN
+664139,Ian Gibaut,,,Pitcher,1,79,113,Cincinnati Reds,CIN
+668881,Hunter Greene,,,Pitcher,1,21,113,Cincinnati Reds,CIN
+677956,Rece Hinds,,,Outfielder,9,57,113,Cincinnati Reds,CIN
+674441,Jacob Hurtubise,,,Outfielder,7,26,113,Cincinnati Reds,CIN
+663697,Jonathan India,,,Second Base,4,6,113,Cincinnati Reds,CIN
+682119,Levi Jordan,,,Outfielder,8,53,113,Cincinnati Reds,CIN
+596001,Jakob Junis,,,Pitcher,1,47,113,Cincinnati Reds,CIN
+543391,Casey Kelly,,,Pitcher,1,84,113,Cincinnati Reds,CIN
+667478,Evan Kravetz,,,Pitcher,1,66,113,Cincinnati Reds,CIN
+668984,Casey Legumina,,,Pitcher,1,65,113,Cincinnati Reds,CIN
+605335,Brandon Leibrandt,,,Pitcher,1,82,113,Cincinnati Reds,CIN
+666157,Nick Lodolo,,,Pitcher,1,40,113,Cincinnati Reds,CIN
+695076,Rhett Lowder,,,Pitcher,1,81,113,Cincinnati Reds,CIN
+571912,Luke Maile,,,Catcher,2,22,113,Cincinnati Reds,CIN
+682622,Noelvi Marte,,,Third Base,5,16,113,Cincinnati Reds,CIN
+607259,Nick Martinez,,,Pitcher,1,28,113,Cincinnati Reds,CIN
+605361,Nick Martini,,,Outfielder,9,23,113,Cincinnati Reds,CIN
+594580,Sam Moll,,,Pitcher,1,50,113,Cincinnati Reds,CIN
+593423,Frankie Montas,,,Pitcher,1,47,113,Cincinnati Reds,CIN
+641941,Emilio Pagán,,,Pitcher,1,15,113,Cincinnati Reds,CIN
+680689,Lyon Richardson,,,Pitcher,1,72,113,Cincinnati Reds,CIN
+621458,Edwin Ríos,,,First Base,3,,113,Cincinnati Reds,CIN
+642708,Amed Rosario,,,Outfielder,9,38,113,Cincinnati Reds,CIN
+663574,Tony Santillan,,,Pitcher,1,64,113,Cincinnati Reds,CIN
+608371,Lucas Sims,,,Pitcher,1,39,113,Cincinnati Reds,CIN
+596103,Austin Slater,,,Outfielder,9,48,113,Cincinnati Reds,CIN
+642086,Dominic Smith,,,First Base,3,0,113,Cincinnati Reds,CIN
+686730,Carson Spiers,,,Pitcher,1,68,113,Cincinnati Reds,CIN
+668715,Spencer Steer,,,Outfielder,7,7,113,Cincinnati Reds,CIN
+663886,Tyler Stephenson,,,Catcher,2,37,113,Cincinnati Reds,CIN
+608718,Brent Suter,,,Pitcher,1,31,113,Cincinnati Reds,CIN
+669352,Bubba Thompson,,,Outfielder,8,12,113,Cincinnati Reds,CIN
+686894,Joey Wiemer,,,Outfielder,7,48,113,Cincinnati Reds,CIN
+682227,Brandon Williamson,,,Pitcher,1,55,113,Cincinnati Reds,CIN
+458677,Justin Wilson,,,Pitcher,1,32,113,Cincinnati Reds,CIN
+642851,Austin Wynns,,,Catcher,2,35,113,Cincinnati Reds,CIN
+687066,Eric Yang,,,Catcher,2,69,113,Cincinnati Reds,CIN
+622065,Alex Young,,,Pitcher,1,48,113,Cincinnati Reds,CIN
+691172,Yosver Zulueta,,,Pitcher,1,67,113,Cincinnati Reds,CIN
+671106,Logan Allen,,,Pitcher,1,41,114,Cleveland Guardians,CLE
+672356,Gabriel Arias,,,Third Base,5,13,114,Cleveland Guardians,CLE
+658648,Pedro Avila,,,Pitcher,1,60,114,Cleveland Guardians,CLE
+605130,Scott Barlow,,,Pitcher,1,58,114,Cleveland Guardians,CLE
+595881,Tyler Beede,,,Pitcher,1,46,114,Cleveland Guardians,CLE
+676440,Tanner Bibee,,,Pitcher,1,28,114,Cleveland Guardians,CLE
+669456,Shane Bieber,,,Pitcher,1,57,114,Cleveland Guardians,CLE
+571510,Matthew Boyd,,,Pitcher,1,16,114,Cleveland Guardians,CLE
+686823,Will Brennan,,,Outfielder,9,17,114,Cleveland Guardians,CLE
+676282,Joey Cantillo,,,Pitcher,1,54,114,Cleveland Guardians,CLE
+471911,Carlos Carrasco,,,Pitcher,1,59,114,Cleveland Guardians,CLE
+661403,Emmanuel Clase,,,Pitcher,1,48,114,Cleveland Guardians,CLE
+502171,Alex Cobb,,,Pitcher,1,35,114,Cleveland Guardians,CLE
+675540,Xzavion Curry,,,Pitcher,1,44,114,Cleveland Guardians,CLE
+664314,Estevan Florial,,,Outfielder,7,90,114,Cleveland Guardians,CLE
+671289,Tyler Freeman,,,Outfielder,8,2,114,Cleveland Guardians,CLE
+681807,David Fry,,,First Base,3,6,114,Cleveland Guardians,CLE
+683769,Hunter Gaddis,,,Pitcher,1,33,114,Cleveland Guardians,CLE
+687362,Connor Gillispie,,,Pitcher,1,61,114,Cleveland Guardians,CLE
+665926,Andrés Giménez,,,Second Base,4,0,114,Cleveland Guardians,CLE
+543238,Anthony Gose,,,Pitcher,1,26,114,Cleveland Guardians,CLE
+595978,Austin Hedges,,,Catcher,2,27,114,Cleveland Guardians,CLE
+656529,Sam Hentges,,,Pitcher,1,31,114,Cleveland Guardians,CLE
+682120,Tim Herrin,,,Pitcher,1,29,114,Cleveland Guardians,CLE
+675921,Spencer Howard,,,Pitcher,1,54,114,Cleveland Guardians,CLE
+680757,Steven Kwan,,,Outfielder,7,38,114,Cleveland Guardians,CLE
+657656,Ramón Laureano,,,Outfielder,9,10,114,Cleveland Guardians,CLE
+594902,Ben Lively,,,Pitcher,1,39,114,Cleveland Guardians,CLE
+700932,Kyle Manzardo,,,First Base,3,9,114,Cleveland Guardians,CLE
+682657,Angel Martínez,,,Outfielder,8,1,114,Cleveland Guardians,CLE
+670766,Darren McCaughan,,,Pitcher,1,56,114,Cleveland Guardians,CLE
+663474,Triston McKenzie,,,Pitcher,1,24,114,Cleveland Guardians,CLE
+669212,Eli Morgan,,,Pitcher,1,49,114,Cleveland Guardians,CLE
+666310,Bo Naylor,,,Catcher,2,23,114,Cleveland Guardians,CLE
+647304,Josh Naylor,,,First Base,3,22,114,Cleveland Guardians,CLE
+678877,Jhonkensy Noel,,,Outfielder,9,43,114,Cleveland Guardians,CLE
+641149,Wes Parsons,,,Pitcher,1,47,114,Cleveland Guardians,CLE
+608070,José Ramírez,,,Third Base,5,11,114,Cleveland Guardians,CLE
+677587,Brayan Rocchio,,,Shortstop,6,4,114,Cleveland Guardians,CLE
+671286,Johnathan Rodríguez,,,Outfielder,9,30,114,Cleveland Guardians,CLE
+681870,Erik Sabrowski,,,Pitcher,1,62,114,Cleveland Guardians,CLE
+680704,Nick Sandlin,,,Pitcher,1,52,114,Cleveland Guardians,CLE
+682177,Daniel Schneemann,,,Shortstop,6,10,114,Cleveland Guardians,CLE
+671922,Cade Smith,,,Pitcher,1,36,114,Cleveland Guardians,CLE
+664702,Myles Straw,,,Outfielder,8,7,114,Cleveland Guardians,CLE
+657265,Peter Strzelecki,,,Pitcher,1,34,114,Cleveland Guardians,CLE
+677588,José Tena,,,Third Base,5,8,114,Cleveland Guardians,CLE
+657041,Lane Thomas,,,Outfielder,9,8,114,Cleveland Guardians,CLE
+689958,Andrew Walters,,,Pitcher,1,63,114,Cleveland Guardians,CLE
+668909,Gavin Williams,,,Pitcher,1,32,114,Cleveland Guardians,CLE
+691182,Adael Amador,,,Second Base,4,1,115,Colorado Rockies,COL
+687597,Jordan Beck,,,Outfielder,7,27,115,Colorado Rockies,COL
+656222,Jalen Beeks,,,Pitcher,1,68,115,Colorado Rockies,COL
+656234,Jake Bird,,,Pitcher,1,59,115,Colorado Rockies,COL
+621389,Ty Blach,,,Pitcher,1,50,115,Colorado Rockies,COL
+453568,Charlie Blackmon,,,Outfielder,9,19,115,Colorado Rockies,COL
+687134,Bradley Blalock,,,Pitcher,1,64,115,Colorado Rockies,COL
+656248,Sean Bouchard,,,Outfielder,9,12,115,Colorado Rockies,COL
+592178,Kris Bryant,,,Outfielder,9,23,115,Colorado Rockies,COL
+571539,Matt Carasiti,,,Pitcher,1,29,115,Colorado Rockies,COL
+595909,Jake Cave,,,Outfielder,9,11,115,Colorado Rockies,COL
+683409,Angel Chivilli,,,Pitcher,1,57,115,Colorado Rockies,COL
+676105,Jeff Criswell,,,Pitcher,1,46,115,Colorado Rockies,COL
+595928,John Curtiss,,,Pitcher,1,37,115,Colorado Rockies,COL
+663562,Noah Davis,,,Pitcher,1,63,115,Colorado Rockies,COL
+553869,Elias Díaz,,,Catcher,2,35,115,Colorado Rockies,COL
+686668,Brenton Doyle,,,Outfielder,8,9,115,Colorado Rockies,COL
+663372,Ryan Feltner,,,Pitcher,1,18,115,Colorado Rockies,COL
+607536,Kyle Freeland,,,Pitcher,1,21,115,Colorado Rockies,COL
+656458,Lucas Gilbreath,,,Pitcher,1,58,115,Colorado Rockies,COL
+596295,Austin Gomber,,,Pitcher,1,26,115,Colorado Rockies,COL
+696100,Hunter Goodman,,,Catcher,2,15,115,Colorado Rockies,COL
+685299,Tanner Gordon,,,Pitcher,1,29,115,Colorado Rockies,COL
+678020,Seth Halvorsen,,,Pitcher,1,54,115,Colorado Rockies,COL
+664129,Geoff Hartlieb,,,Pitcher,1,36,115,Colorado Rockies,COL
+677955,Jaden Hill,,,Pitcher,1,0,115,Colorado Rockies,COL
+656541,Sam Hilliard,,,Outfielder,7,16,115,Colorado Rockies,COL
+641712,Dakota Hudson,,,Pitcher,1,32,115,Colorado Rockies,COL
+675659,Greg Jones,,,Outfielder,9,2,115,Colorado Rockies,COL
+666134,Nolan Jones,,,Outfielder,7,22,115,Colorado Rockies,COL
+687145,Evan Justice,,,Pitcher,1,56,115,Colorado Rockies,COL
+641755,Tyler Kinley,,,Pitcher,1,40,115,Colorado Rockies,COL
+571863,Matt Koch,,,Pitcher,1,54,115,Colorado Rockies,COL
+663567,Peter Lambert,,,Pitcher,1,20,115,Colorado Rockies,COL
+664875,Justin Lawrence,,,Pitcher,1,61,115,Colorado Rockies,COL
+608566,Germán Márquez,,,Pitcher,1,48,115,Colorado Rockies,COL
+641857,Ryan McMahon,,,Third Base,5,24,115,Colorado Rockies,COL
+683232,Nick Mears,,,Pitcher,1,46,115,Colorado Rockies,COL
+683627,Anthony Molina,,,Pitcher,1,43,115,Colorado Rockies,COL
+660707,Elehuris Montero,,,First Base,3,44,115,Colorado Rockies,COL
+678821,Luis Peralta,,,Pitcher,1,41,115,Colorado Rockies,COL
+666207,Riley Pint,,,Pitcher,1,41,115,Colorado Rockies,COL
+615698,Cal Quantrill,,,Pitcher,1,47,115,Colorado Rockies,COL
+663898,Brendan Rodgers,,,Second Base,4,7,115,Colorado Rockies,COL
+642028,Josh Rogers,,,Pitcher,1,60,115,Colorado Rockies,COL
+691011,Drew Romo,,,Catcher,2,3,115,Colorado Rockies,COL
+668845,Aaron Schunk,,,Second Base,4,30,115,Colorado Rockies,COL
+622608,Antonio Senzatela,,,Pitcher,1,49,115,Colorado Rockies,COL
+592741,Chasen Shreve,,,Pitcher,1,46,115,Colorado Rockies,COL
+607732,Jacob Stallings,,,Catcher,2,25,115,Colorado Rockies,COL
+669911,Michael Toglia,,,First Base,3,4,115,Colorado Rockies,COL
+678662,Ezequiel Tovar,,,Shortstop,6,14,115,Colorado Rockies,COL
+676701,Alan Trejo,,,Second Base,4,13,115,Colorado Rockies,COL
+680767,Victor Vodnik,,,Pitcher,1,38,115,Colorado Rockies,COL
+668731,Akil Baddoo,,,Outfielder,7,60,116,Detroit Tigers,DET
+595879,Javier Báez,,,Shortstop,6,28,116,Detroit Tigers,DET
+689225,Beau Brieske,,,Pitcher,1,4,116,Detroit Tigers,DET
+592192,Mark Canha,,,First Base,3,21,116,Detroit Tigers,DET
+681481,Kerry Carpenter,,,Outfielder,9,30,116,Detroit Tigers,DET
+605177,Andrew Chafin,,,Pitcher,1,17,116,Detroit Tigers,DET
+693307,Dillon Dingler,,,Catcher,2,38,116,Detroit Tigers,DET
+669438,Mason Englert,,,Pitcher,1,53,116,Detroit Tigers,DET
+656412,Alex Faedo,,,Pitcher,1,49,116,Detroit Tigers,DET
+656427,Jack Flaherty,,,Pitcher,1,9,116,Detroit Tigers,DET
+671345,Jason Foley,,,Pitcher,1,68,116,Detroit Tigers,DET
+682985,Riley Greene,,,Outfielder,7,31,116,Detroit Tigers,DET
+674944,Sean Guenther,,,Pitcher,1,73,116,Detroit Tigers,DET
+669724,Brenan Hanifee,,,Pitcher,1,75,116,Detroit Tigers,DET
+663947,Tyler Holton,,,Pitcher,1,87,116,Detroit Tigers,DET
+676428,Brant Hurter,,,Pitcher,1,48,116,Detroit Tigers,DET
+628451,Andy Ibáñez,,,Second Base,4,77,116,Detroit Tigers,DET
+695549,Jackson Jobe,,,Pitcher,1,21,116,Detroit Tigers,DET
+690291,Jace Jung,,,Third Base,5,17,116,Detroit Tigers,DET
+690993,Colt Keith,,,Second Base,4,33,116,Detroit Tigers,DET
+608348,Carson Kelly,,,Catcher,2,15,116,Detroit Tigers,DET
+671083,Buddy Kennedy,,,Second Base,4,40,116,Detroit Tigers,DET
+668952,Ryan Kreidler,,,Shortstop,6,32,116,Detroit Tigers,DET
+656638,Alex Lange,,,Pitcher,1,55,116,Detroit Tigers,DET
+687922,Easton Lucas,,,Pitcher,1,57,116,Detroit Tigers,DET
+680744,Ty Madden,,,Pitcher,1,36,116,Detroit Tigers,DET
+676632,Bligh Madris,,,First Base,3,40,116,Detroit Tigers,DET
+628317,Kenta Maeda,,,Pitcher,1,18,116,Detroit Tigers,DET
+669234,Justyn-Henry Malloy,,,Outfielder,7,44,116,Detroit Tigers,DET
+666159,Matt Manning,,,Pitcher,1,25,116,Detroit Tigers,DET
+656716,Zach McKinstry,,,Shortstop,6,39,116,Detroit Tigers,DET
+678009,Parker Meadows,,,Outfielder,8,22,116,Detroit Tigers,DET
+571946,Shelby Miller,,,Pitcher,1,7,116,Detroit Tigers,DET
+663554,Casey Mize,,,Pitcher,1,12,116,Detroit Tigers,DET
+672456,Keider Montero,,,Pitcher,1,54,116,Detroit Tigers,DET
+681857,Reese Olson,,,Pitcher,1,45,116,Detroit Tigers,DET
+672761,Wenceel Pérez,,,Outfielder,9,46,116,Detroit Tigers,DET
+668670,Jake Rogers,,,Catcher,2,34,116,Detroit Tigers,DET
+676614,Bryan Sammons,,,Pitcher,1,62,116,Detroit Tigers,DET
+669373,Tarik Skubal,,,Pitcher,1,29,116,Detroit Tigers,DET
+700242,Trey Sweeney,,,Shortstop,6,27,116,Detroit Tigers,DET
+679529,Spencer Torkelson,,,First Base,3,20,116,Detroit Tigers,DET
+570482,Gio Urshela,,,Third Base,5,13,116,Detroit Tigers,DET
+676568,Ricky Vanasco,,,Pitcher,1,57,116,Detroit Tigers,DET
+676684,Will Vest,,,Pitcher,1,19,116,Detroit Tigers,DET
+663837,Matt Vierling,,,Outfielder,8,8,116,Detroit Tigers,DET
+668723,Ryan Vilade,,,Outfielder,7,50,116,Detroit Tigers,DET
+666214,Joey Wentz,,,Pitcher,1,43,116,Detroit Tigers,DET
+650556,Bryan Abreu,,,Pitcher,1,52,117,Houston Astros,HOU
+547989,José Abreu,,,First Base,3,79,117,Houston Astros,HOU
+514888,Jose Altuve,,,Second Base,4,27,117,Houston Astros,HOU
+670541,Yordan Alvarez,,,Outfielder,7,44,117,Houston Astros,HOU
+676070,Jacob Amaya,,,Second Base,4,15,117,Houston Astros,HOU
+681293,Spencer Arrighetti,,,Pitcher,1,41,117,Houston Astros,HOU
+656232,Brandon Bielak,,,Pitcher,1,64,117,Houston Astros,HOU
+669854,Ronel Blanco,,,Pitcher,1,56,117,Houston Astros,HOU
+814005,Jake Bloss,,,Pitcher,1,39,117,Houston Astros,HOU
+608324,Alex Bregman,,,Third Base,5,2,117,Houston Astros,HOU
+686613,Hunter Brown,,,Pitcher,1,58,117,Houston Astros,HOU
+663550,Trey Cabbage,,,Outfielder,9,38,117,Houston Astros,HOU
+605170,Victor Caratini,,,Catcher,2,17,117,Houston Astros,HOU
+669395,Dylan Coleman,,,Pitcher,1,54,117,Houston Astros,HOU
+664351,Luis Contreras,,,Pitcher,1,73,117,Houston Astros,HOU
+701305,Zach Dezenzo,,,First Base,3,9,117,Houston Astros,HOU
+649557,Aledmys Díaz,,,Shortstop,6,12,117,Houston Astros,HOU
+622766,Miguel Díaz,,,Pitcher,1,,117,Houston Astros,HOU
+673237,Yainer Diaz,,,Catcher,2,21,117,Houston Astros,HOU
+681869,Shawn Dubin,,,Pitcher,1,66,117,Houston Astros,HOU
+643289,Mauricio Dubón,,,Outfielder,7,14,117,Houston Astros,HOU
+657571,Caleb Ferguson,,,Pitcher,1,64,117,Houston Astros,HOU
+641585,J.P. France,,,Pitcher,1,68,117,Houston Astros,HOU
+592325,Ben Gamel,,,Outfielder,9,12,117,Houston Astros,HOU
+623352,Josh Hader,,,Pitcher,1,71,117,Houston Astros,HOU
+668874,Blair Henley,,,Pitcher,1,70,117,Houston Astros,HOU
+663321,Nick Hernandez,,,Pitcher,1,72,117,Houston Astros,HOU
+518792,Jason Heyward,,,Outfielder,9,22,117,Houston Astros,HOU
+669450,Cooper Hummel,,,Outfielder,7,1,117,Houston Astros,HOU
+664299,Cristian Javier,,,Pitcher,1,53,117,Houston Astros,HOU
+666197,Grae Kessinger,,,Third Base,5,11,117,Houston Astros,HOU
+579328,Yusei Kikuchi,,,Pitcher,1,16,117,Houston Astros,HOU
+687911,Bryan King,,,Pitcher,1,74,117,Houston Astros,HOU
+669270,Joel Kuhnel,,,Pitcher,1,72,117,Houston Astros,HOU
+694175,Pedro León,,,Outfielder,9,4,117,Houston Astros,HOU
+694388,Joey Loperfido,,,Outfielder,7,10,117,Houston Astros,HOU
+661527,Seth Martinez,,,Pitcher,1,61,117,Houston Astros,HOU
+676801,Chas McCormick,,,Outfielder,7,20,117,Houston Astros,HOU
+676694,Jake Meyers,,,Outfielder,8,6,117,Houston Astros,HOU
+606160,Rafael Montero,,,Pitcher,1,47,117,Houston Astros,HOU
+656786,Parker Mushinski,,,Pitcher,1,67,117,Houston Astros,HOU
+593576,Héctor Neris,,,Pitcher,1,50,117,Houston Astros,HOU
+672391,Kaleb Ort,,,Pitcher,1,63,117,Houston Astros,HOU
+665161,Jeremy Peña,,,Shortstop,6,3,117,Houston Astros,HOU
+519151,Ryan Pressly,,,Pitcher,1,55,117,Houston Astros,HOU
+663967,César Salazar,,,Catcher,2,18,117,Houston Astros,HOU
+605463,Tayler Scott,,,Pitcher,1,50,117,Houston Astros,HOU
+572138,Jon Singleton,,,First Base,3,28,117,Houston Astros,HOU
+666208,Alex Speas,,,Pitcher,1,64,117,Houston Astros,HOU
+593833,Wander Suero,,,Pitcher,1,48,117,Houston Astros,HOU
+663656,Kyle Tucker,,,Outfielder,9,30,117,Houston Astros,HOU
+664285,Framber Valdez,,,Pitcher,1,59,117,Houston Astros,HOU
+434378,Justin Verlander,,,Pitcher,1,35,117,Houston Astros,HOU
+694376,Shay Whitcomb,,,Shortstop,6,10,117,Houston Astros,HOU
+666215,Forrest Whitley,,,Pitcher,1,60,117,Houston Astros,HOU
+680769,CJ Alexander,,,Third Base,5,40,118,Kansas City Royals,KC
+656186,Dan Altavilla,,,Pitcher,1,54,118,Kansas City Royals,KC
+623433,Nick Anderson,,,Pitcher,1,63,118,Kansas City Royals,KC
+680118,Dairon Blanco,,,Outfielder,7,44,118,Kansas City Royals,KC
+680742,Jonathan Bowlan,,,Pitcher,1,62,118,Kansas City Royals,KC
+663460,Kris Bubic,,,Pitcher,1,50,118,Kansas City Royals,KC
+674444,Steven Cruz,,,Pitcher,1,64,118,Kansas City Royals,KC
+657557,Paul DeJong,,,Shortstop,6,15,118,Kansas City Royals,KC
+608648,Tyler Duffey,,,Pitcher,1,21,118,Kansas City Royals,KC
+668674,Lucas Erceg,,,Pitcher,1,60,118,Kansas City Royals,KC
+666023,Freddy Fermin,,,Catcher,2,34,118,Kansas City Royals,KC
+624428,Adam Frazier,,,Second Base,4,26,118,Kansas City Royals,KC
+672580,Maikel Garcia,,,Third Base,5,11,118,Kansas City Royals,KC
+694355,Tyler Gentry,,,Outfielder,9,27,118,Kansas City Royals,KC
+543257,Robbie Grossman,,,Outfielder,9,8,118,Kansas City Royals,KC
+493329,Yuli Gurriel,,,First Base,3,18,118,Kansas City Royals,KC
+641658,Garrett Hampson,,,Outfielder,8,2,118,Kansas City Royals,KC
+640451,Hunter Harvey,,,Pitcher,1,56,118,Kansas City Royals,KC
+672578,Carlos Hernández,,,Pitcher,1,43,118,Kansas City Royals,KC
+664728,Kyle Isbel,,,Outfielder,8,28,118,Kansas City Royals,KC
+694361,Will Klein,,,Pitcher,1,36,118,Kansas City Royals,KC
+679845,Nick Loftin,,,Second Base,4,12,118,Kansas City Royals,KC
+669674,Sam Long,,,Pitcher,1,73,118,Kansas City Royals,KC
+547179,Michael Lorenzen,,,Pitcher,1,24,118,Kansas City Royals,KC
+607625,Seth Lugo,,,Pitcher,1,67,118,Kansas City Royals,KC
+543475,Jordan Lyles,,,Pitcher,1,24,118,Kansas City Royals,KC
+663738,Daniel Lynch IV,,,Pitcher,1,41,118,Kansas City Royals,KC
+679525,Alec Marsh,,,Pitcher,1,48,118,Kansas City Royals,KC
+686681,Michael Massey,,,Second Base,4,19,118,Kansas City Royals,KC
+663704,James McArthur,,,Pitcher,1,66,118,Kansas City Royals,KC
+669004,MJ Melendez,,,Outfielder,7,1,118,Kansas City Royals,KC
+686469,Vinnie Pasquantino,,,First Base,3,9,118,Kansas City Royals,KC
+679156,Walter Pennington,,,Pitcher,1,65,118,Kansas City Royals,KC
+521692,Salvador Perez,,,Catcher,2,13,118,Kansas City Royals,KC
+502054,Tommy Pham,,,Outfielder,9,22,118,Kansas City Royals,KC
+668472,Nick Pratto,,,First Base,3,32,118,Kansas City Royals,KC
+666142,Cole Ragans,,,Pitcher,1,55,118,Kansas City Royals,KC
+592669,Hunter Renfroe,,,Outfielder,9,16,118,Kansas City Royals,KC
+669422,Matt Sauer,,,Pitcher,1,65,118,Kansas City Royals,KC
+670167,John Schreiber,,,Pitcher,1,46,118,Kansas City Royals,KC
+681882,Colin Selby,,,Pitcher,1,60,118,Kansas City Royals,KC
+663903,Brady Singer,,,Pitcher,1,51,118,Kansas City Royals,KC
+519293,Will Smith,,,Pitcher,1,31,118,Kansas City Royals,KC
+608717,Chris Stratton,,,Pitcher,1,35,118,Kansas City Royals,KC
+676369,Nelson Velázquez,,,Outfielder,9,17,118,Kansas City Royals,KC
+685107,Anthony Veneziano,,,Pitcher,1,69,118,Kansas City Royals,KC
+608379,Michael Wacha,,,Pitcher,1,52,118,Kansas City Royals,KC
+671221,Drew Waters,,,Outfielder,9,8,118,Kansas City Royals,KC
+677951,Bobby Witt Jr.,,,Shortstop,6,7,118,Kansas City Royals,KC
+672582,Angel Zerpa,,,Pitcher,1,61,118,Kansas City Royals,KC
+605113,Nick Ahmed,,,Shortstop,6,12,119,Los Angeles Dodgers,LAD
+607455,Anthony Banda,,,Pitcher,1,43,119,Los Angeles Dodgers,LAD
+605131,Austin Barnes,,,Catcher,2,15,119,Los Angeles Dodgers,LAD
+605141,Mookie Betts,,,Shortstop,6,50,119,Los Angeles Dodgers,LAD
+624415,Cavan Biggio,,,Second Base,4,6,119,Los Angeles Dodgers,LAD
+518489,Ryan Brasier,,,Pitcher,1,57,119,Los Angeles Dodgers,LAD
+641401,Connor Brogdon,,,Pitcher,1,75,119,Los Angeles Dodgers,LAD
+621111,Walker Buehler,,,Pitcher,1,21,119,Los Angeles Dodgers,LAD
+676508,Ben Casparius,,,Pitcher,1,78,119,Los Angeles Dodgers,LAD
+622503,Nabil Crismatt,,,Pitcher,1,70,119,Los Angeles Dodgers,LAD
+669242,Tommy Edman,,,Outfielder,8,25,119,Los Angeles Dodgers,LAD
+676439,Hunter Feduccia,,,Catcher,2,67,119,Los Angeles Dodgers,LAD
+656420,J.P. Feyereisen,,,Pitcher,1,45,119,Los Angeles Dodgers,LAD
+656427,Jack Flaherty,,,Pitcher,1,0,119,Los Angeles Dodgers,LAD
+518692,Freddie Freeman,,,First Base,3,5,119,Los Angeles Dodgers,LAD
+607192,Tyler Glasnow,,,Pitcher,1,31,119,Los Angeles Dodgers,LAD
+660813,Brusdar Graterol,,,Pitcher,1,48,119,Los Angeles Dodgers,LAD
+675627,Michael Grove,,,Pitcher,1,29,119,Los Angeles Dodgers,LAD
+683618,Edgardo Henriquez,,,Pitcher,1,60,119,Los Angeles Dodgers,LAD
+622694,Elieser Hernández,,,Pitcher,1,52,119,Los Angeles Dodgers,LAD
+571771,Enrique Hernández,,,Third Base,5,8,119,Los Angeles Dodgers,LAD
+606192,Teoscar Hernández,,,Outfielder,7,37,119,Los Angeles Dodgers,LAD
+518792,Jason Heyward,,,Outfielder,9,23,119,Los Angeles Dodgers,LAD
+641703,Brent Honeywell,,,Pitcher,1,40,119,Los Angeles Dodgers,LAD
+543339,Daniel Hudson,,,Pitcher,1,41,119,Los Angeles Dodgers,LAD
+669165,Kyle Hurt,,,Pitcher,1,63,119,Los Angeles Dodgers,LAD
+523260,Joe Kelly,,,Pitcher,1,99,119,Los Angeles Dodgers,LAD
+477132,Clayton Kershaw,,,Pitcher,1,22,119,Los Angeles Dodgers,LAD
+595281,Kevin Kiermaier,,,Outfielder,8,93,119,Los Angeles Dodgers,LAD
+689017,Landon Knack,,,Pitcher,1,96,119,Los Angeles Dodgers,LAD
+656629,Michael Kopech,,,Pitcher,1,45,119,Los Angeles Dodgers,LAD
+659275,Dinelson Lamet,,,Pitcher,1,94,119,Los Angeles Dodgers,LAD
+656657,Zach Logue,,,Pitcher,1,62,119,Los Angeles Dodgers,LAD
+666158,Gavin Lux,,,Second Base,4,9,119,Los Angeles Dodgers,LAD
+676272,Bobby Miller,,,Pitcher,1,28,119,Los Angeles Dodgers,LAD
+571970,Max Muncy,,,Third Base,5,13,119,Los Angeles Dodgers,LAD
+660271,Shohei Ohtani,,,Two-Way Player,Y,17,119,Los Angeles Dodgers,LAD
+681546,James Outman,,,Outfielder,8,33,119,Los Angeles Dodgers,LAD
+681624,Andy Pages,,,Outfielder,8,44,119,Los Angeles Dodgers,LAD
+572020,James Paxton,,,Pitcher,1,65,119,Los Angeles Dodgers,LAD
+656848,Michael Petersen,,,Pitcher,1,90,119,Los Angeles Dodgers,LAD
+623465,Evan Phillips,,,Pitcher,1,59,119,Los Angeles Dodgers,LAD
+598286,Nick Ramirez,,,Pitcher,1,64,119,Los Angeles Dodgers,LAD
+670990,Yohan Ramírez,,,Pitcher,1,46,119,Los Angeles Dodgers,LAD
+500743,Miguel Rojas,,,Shortstop,6,11,119,Los Angeles Dodgers,LAD
+642708,Amed Rosario,,,Second Base,4,27,119,Los Angeles Dodgers,LAD
+689981,River Ryan,,,Pitcher,1,77,119,Los Angeles Dodgers,LAD
+674285,Eduardo Salazar,,,Pitcher,1,60,119,Los Angeles Dodgers,LAD
+669257,Will Smith,,,Catcher,2,16,119,Los Angeles Dodgers,LAD
+694813,Gavin Stone,,,Pitcher,1,35,119,Los Angeles Dodgers,LAD
+621035,Chris Taylor,,,Outfielder,7,3,119,Los Angeles Dodgers,LAD
+666211,Taylor Trammell,,,Outfielder,7,6,119,Los Angeles Dodgers,LAD
+595014,Blake Treinen,,,Pitcher,1,49,119,Los Angeles Dodgers,LAD
+676568,Ricky Vanasco,,,Pitcher,1,61,119,Los Angeles Dodgers,LAD
+678246,Miguel Vargas,,,Outfielder,7,27,119,Los Angeles Dodgers,LAD
+681402,Gus Varland,,,Pitcher,1,58,119,Los Angeles Dodgers,LAD
+681911,Alex Vesia,,,Pitcher,1,51,119,Los Angeles Dodgers,LAD
+680736,Justin Wrobleski,,,Pitcher,1,70,119,Los Angeles Dodgers,LAD
+808967,Yoshinobu Yamamoto,,,Pitcher,1,18,119,Los Angeles Dodgers,LAD
+642232,Ryan Yarbrough,,,Pitcher,1,56,119,Los Angeles Dodgers,LAD
 613534,Austin Adams,,,Pitcher,1,29,133,Oakland Athletics,OAK
 518397,Scott Alexander,,,Pitcher,1,54,133,Oakland Athletics,OAK
 669397,Nick Allen,,,Shortstop,6,10,133,Oakland Athletics,OAK
@@ -54,111 +719,6 @@ player_id,full_name,first_name,last_name,position,position_code,jersey_number,te
 647351,Abraham Toro,,,Third Base,5,31,133,Oakland Athletics,OAK
 805779,Jacob Wilson,,,Shortstop,6,5,133,Oakland Athletics,OAK
 622072,Alex Wood,,,Pitcher,1,57,133,Oakland Athletics,OAK
-678225,Ji Hwan Bae,,,Outfielder,8,3,134,Pittsburgh Pirates,PIT
-663698,Joey Bart,,,Catcher,2,14,134,Pittsburgh Pirates,PIT
-670280,David Bednar,,,Pitcher,1,51,134,Pittsburgh Pirates,PIT
-656222,Jalen Beeks,,,Pitcher,1,68,134,Pittsburgh Pirates,PIT
-621366,Ryan Borucki,,,Pitcher,1,43,134,Pittsburgh Pirates,PIT
-677865,Justin Bruihl,,,Pitcher,1,56,134,Pittsburgh Pirates,PIT
-681347,Mike Burrows,,,Pitcher,1,53,134,Pittsburgh Pirates,PIT
-547973,Aroldis Chapman,,,Pitcher,1,45,134,Pittsburgh Pirates,PIT
-672710,Roansy Contreras,,,Pitcher,1,59,134,Pittsburgh Pirates,PIT
-695257,Billy Cook,,,First Base,3,25,134,Pittsburgh Pirates,PIT
-665833,Oneil Cruz,,,Outfield,O,15,134,Pittsburgh Pirates,PIT
-680779,Henry Davis,,,Catcher,2,32,134,Pittsburgh Pirates,PIT
-650559,Bryan De La Cruz,,,Outfielder,7,41,134,Pittsburgh Pirates,PIT
-641511,Jason Delay,,,Catcher,2,55,134,Pittsburgh Pirates,PIT
-663559,Bailey Falter,,,Pitcher,1,6,134,Pittsburgh Pirates,PIT
-621399,Brady Feigl,,,Pitcher,1,52,134,Pittsburgh Pirates,PIT
-676596,Josh Fleming,,,Pitcher,1,28,134,Pittsburgh Pirates,PIT
-593334,Domingo Germán,,,Pitcher,1,0,134,Pittsburgh Pirates,PIT
-594835,Marco Gonzales,,,Pitcher,1,27,134,Pittsburgh Pirates,PIT
-693304,Nick Gonzales,,,Second Base,4,39,134,Pittsburgh Pirates,PIT
-518735,Yasmani Grandal,,,Catcher,2,6,134,Pittsburgh Pirates,PIT
-663647,Ke'Bryan Hayes,,,Third Base,5,13,134,Pittsburgh Pirates,PIT
-621294,Ben Heller,,,Pitcher,1,61,134,Pittsburgh Pirates,PIT
-669796,Jose E. Hernandez,,,Pitcher,1,61,134,Pittsburgh Pirates,PIT
-670059,Colin Holderman,,,Pitcher,1,35,134,Pittsburgh Pirates,PIT
-641703,Brent Honeywell,,,Pitcher,1,34,134,Pittsburgh Pirates,PIT
-641726,Daulton Jefferies,,,Pitcher,1,59,134,Pittsburgh Pirates,PIT
-656582,Connor Joe,,,First Base,3,2,134,Pittsburgh Pirates,PIT
-683003,Jared Jones,,,Pitcher,1,37,134,Pittsburgh Pirates,PIT
-656605,Mitch Keller,,,Pitcher,1,23,134,Pittsburgh Pirates,PIT
-643396,Isiah Kiner-Falefa,,,Second Base,4,7,134,Pittsburgh Pirates,PIT
-667428,Grant Koch,,,Catcher,2,56,134,Pittsburgh Pirates,PIT
-676755,Isaac Mattson,,,Pitcher,1,64,134,Pittsburgh Pirates,PIT
-457705,Andrew McCutchen,,,Outfielder,9,22,134,Pittsburgh Pirates,PIT
-641856,Billy McKinney,,,Outfielder,7,29,134,Pittsburgh Pirates,PIT
-669387,Carmen Mlodzinski,,,Pitcher,1,50,134,Pittsburgh Pirates,PIT
-693312,Kyle Nicolas,,,Pitcher,1,66,134,Pittsburgh Pirates,PIT
-658668,Edward Olivares,,,Outfielder,9,38,134,Pittsburgh Pirates,PIT
-682847,Luis L. Ortiz,,,Pitcher,1,48,134,Pittsburgh Pirates,PIT
-641943,Joshua Palacios,,,Outfielder,9,77,134,Pittsburgh Pirates,PIT
-678894,Liover Peguero,,,Shortstop,6,31,134,Pittsburgh Pirates,PIT
-527048,Martín Pérez,,,Pitcher,1,54,134,Pittsburgh Pirates,PIT
-682990,Quinn Priester,,,Pitcher,1,46,134,Pittsburgh Pirates,PIT
-668804,Bryan Reynolds,,,Outfielder,7,10,134,Pittsburgh Pirates,PIT
-656924,Ryder Ryan,,,Pitcher,1,72,134,Pittsburgh Pirates,PIT
-642701,Dennis Santana,,,Pitcher,1,60,134,Pittsburgh Pirates,PIT
-694973,Paul Skenes,,,Pitcher,1,30,134,Pittsburgh Pirates,PIT
-676702,Hunter Stratton,,,Pitcher,1,63,134,Pittsburgh Pirates,PIT
-669261,Jack Suwinski,,,Outfielder,8,65,134,Pittsburgh Pirates,PIT
-572191,Michael A. Taylor,,,Outfielder,8,18,134,Pittsburgh Pirates,PIT
-642133,Rowdy Tellez,,,First Base,3,44,134,Pittsburgh Pirates,PIT
-669707,Jared Triolo,,,Third Base,5,19,134,Pittsburgh Pirates,PIT
-666214,Joey Wentz,,,Pitcher,1,34,134,Pittsburgh Pirates,PIT
-675961,Alika Williams,,,Second Base,4,25,134,Pittsburgh Pirates,PIT
-663765,Jake Woodford,,,Pitcher,1,46,134,Pittsburgh Pirates,PIT
-694377,Nick Yorke,,,Second Base,4,38,134,Pittsburgh Pirates,PIT
-592094,Jason Adam,,,Pitcher,1,40,135,San Diego Padres,SD
-605113,Nick Ahmed,,,Shortstop,6,16,135,San Diego Padres,SD
-650333,Luis Arraez,,,First Base,3,4,135,San Diego Padres,SD
-658648,Pedro Avila,,,Pitcher,1,60,135,San Diego Padres,SD
-640492,José Azocar,,,Outfielder,7,28,135,San Diego Padres,SD
-676946,Matthew Batten,,,Second Base,4,17,135,San Diego Padres,SD
-593428,Xander Bogaerts,,,Second Base,4,2,135,San Diego Padres,SD
-666745,Jhony Brito,,,Pitcher,1,76,135,San Diego Padres,SD
-669134,Luis Campusano,,,Catcher,2,12,135,San Diego Padres,SD
-656302,Dylan Cease,,,Pitcher,1,84,135,San Diego Padres,SD
-676680,Tom Cosgrove,,,Pitcher,1,59,135,San Diego Padres,SD
-630105,Jake Cronenworth,,,First Base,3,9,135,San Diego Padres,SD
-506433,Yu Darvish,,,Pitcher,1,11,135,San Diego Padres,SD
-656354,Austin Davis,,,Pitcher,1,,135,San Diego Padres,SD
-660853,Enyel De Los Santos,,,Pitcher,1,62,135,San Diego Padres,SD
-553869,Elias Díaz,,,Catcher,2,15,135,San Diego Padres,SD
-605218,Carl Edwards Jr.,,,Pitcher,1,,135,San Diego Padres,SD
-669093,Jeremiah Estrada,,,Pitcher,1,56,135,San Diego Padres,SD
-670810,Logan Gillaspie,,,Pitcher,1,71,135,San Diego Padres,SD
-543309,Kyle Higashioka,,,Catcher,2,20,135,San Diego Padres,SD
-663773,Bryan Hoeing,,,Pitcher,1,78,135,San Diego Padres,SD
-689690,Alek Jacob,,,Pitcher,1,37,135,San Diego Padres,SD
-669369,Bryce Johnson,,,Outfielder,9,27,135,San Diego Padres,SD
-673490,Ha-Seong Kim,,,Shortstop,6,7,135,San Diego Padres,SD
-650633,Michael King,,,Pitcher,1,34,135,San Diego Padres,SD
-663568,Stephen Kolek,,,Pitcher,1,32,135,San Diego Padres,SD
-663604,Brandon Lockridge,,,Outfielder,9,28,135,San Diego Padres,SD
-592518,Manny Machado,,,Third Base,5,13,135,San Diego Padres,SD
-673513,Yuki Matsui,,,Pitcher,1,1,135,San Diego Padres,SD
-800049,Adam Mazur,,,Pitcher,1,36,135,San Diego Padres,SD
-669200,Mason McCoy,,,Shortstop,6,18,135,San Diego Padres,SD
-701538,Jackson Merrill,,,Outfielder,8,3,135,San Diego Padres,SD
-670970,Adrian Morejon,,,Pitcher,1,50,135,San Diego Padres,SD
-605397,Joe Musgrove,,,Pitcher,1,44,135,San Diego Padres,SD
-688363,Graham Pauley,,,Third Base,5,22,135,San Diego Padres,SD
-444482,David Peralta,,,Outfielder,9,24,135,San Diego Padres,SD
-593974,Wandy Peralta,,,Pitcher,1,58,135,San Diego Padres,SD
-527048,Martín Pérez,,,Pitcher,1,54,135,San Diego Padres,SD
-595777,Jurickson Profar,,,Outfielder,7,10,135,San Diego Padres,SD
-669308,Sean Reynolds,,,Pitcher,1,25,135,San Diego Padres,SD
-666703,Eguy Rosario,,,Third Base,5,5,135,San Diego Padres,SD
-656945,Tanner Scott,,,Pitcher,1,66,135,San Diego Padres,SD
-456781,Donovan Solano,,,Third Base,5,39,135,San Diego Padres,SD
-663158,Robert Suarez,,,Pitcher,1,75,135,San Diego Padres,SD
-664954,Brett Sullivan,,,Catcher,2,29,135,San Diego Padres,SD
-665487,Fernando Tatis Jr.,,,Outfielder,9,23,135,San Diego Padres,SD
-681190,Randy Vásquez,,,Pitcher,1,98,135,San Diego Padres,SD
-642180,Tyler Wade,,,Third Base,5,14,135,San Diego Padres,SD
-663362,Matt Waldron,,,Pitcher,1,61,135,San Diego Padres,SD
 668227,Randy Arozarena,,,Outfielder,7,56,136,Seattle Mariners,SEA
 657508,Mike Baumann,,,Pitcher,1,53,136,Seattle Mariners,SEA
 660825,Eduard Bazardo,,,Pitcher,1,83,136,Seattle Mariners,SEA
@@ -874,671 +1434,6 @@ player_id,full_name,first_name,last_name,position,position_code,jersey_number,te
 669060,Bryse Wilson,,,Pitcher,1,46,158,Milwaukee Brewers,MIL
 592885,Christian Yelich,,,Outfielder,7,22,158,Milwaukee Brewers,MIL
 642239,Rob Zastryzny,,,Pitcher,1,58,158,Milwaukee Brewers,MIL
-677941,Jordyn Adams,,,Outfielder,9,39,108,Los Angeles Angels,LAA
-666176,Jo Adell,,,Outfielder,9,7,108,Los Angeles Angels,LAA
-501303,Ehire Adrianza,,,Third Base,5,13,108,Los Angeles Angels,LAA
-691951,Sam Aldegheri,,,Pitcher,1,66,108,Los Angeles Angels,LAA
-542881,Tyler Anderson,,,Pitcher,1,31,108,Los Angeles Angels,LAA
-657508,Mike Baumann,,,Pitcher,1,53,108,Los Angeles Angels,LAA
-656271,Brock Burke,,,Pitcher,1,46,108,Los Angeles Angels,LAA
-641432,Willie Calhoun,,,First Base,3,5,108,Los Angeles Angels,LAA
-672569,Gustavo Campero,,,Outfielder,9,51,108,Los Angeles Angels,LAA
-656288,Griffin Canning,,,Pitcher,1,47,108,Los Angeles Angels,LAA
-643256,Adam Cimber,,,Pitcher,1,,108,Los Angeles Angels,LAA
-542585,José Cisnero,,,Pitcher,1,67,108,Los Angeles Angels,LAA
-672710,Roansy Contreras,,,Pitcher,1,57,108,Los Angeles Angels,LAA
-668968,Hans Crouse,,,Pitcher,1,52,108,Los Angeles Angels,LAA
-456501,Johnny Cueto,,,Pitcher,1,36,108,Los Angeles Angels,LAA
-702674,Caden Dana,,,Pitcher,1,36,108,Los Angeles Angels,LAA
-669721,Davis Daniel,,,Pitcher,1,58,108,Los Angeles Angels,LAA
-672282,Reid Detmers,,,Pitcher,1,48,108,Los Angeles Angels,LAA
-592273,Brandon Drury,,,Second Base,4,23,108,Los Angeles Angels,LAA
-608032,Carlos Estévez,,,Pitcher,1,53,108,Los Angeles Angels,LAA
-608334,Carson Fulmer,,,Pitcher,1,41,108,Los Angeles Angels,LAA
-472610,Luis García,,,Pitcher,1,66,108,Los Angeles Angels,LAA
-607237,Amir Garrett,,,Pitcher,1,,108,Los Angeles Angels,LAA
-592348,Niko Goodrum,,,Third Base,5,28,108,Los Angeles Angels,LAA
-641645,Luis Guillorme,,,Second Base,4,15,108,Los Angeles Angels,LAA
-543305,Aaron Hicks,,,Outfielder,9,12,108,Los Angeles Angels,LAA
-669374,Keston Hiura,,,Second Base,4,13,108,Los Angeles Angels,LAA
-690829,Ben Joyce,,,Pitcher,1,44,108,Los Angeles Angels,LAA
-694359,Niko Kavadas,,,First Base,3,28,108,Los Angeles Angels,LAA
-686799,Jack Kochanowicz,,,Pitcher,1,64,108,Los Angeles Angels,LAA
-670219,Zac Kristofak,,,Pitcher,1,72,108,Los Angeles Angels,LAA
-641779,Charles Leblanc,,,Third Base,5,33,108,Los Angeles Angels,LAA
-605346,Jack López,,,Second Base,4,10,108,Los Angeles Angels,LAA
-665896,José Marte,,,Pitcher,1,68,108,Los Angeles Angels,LAA
-682989,Victor Mederos,,,Pitcher,1,62,108,Los Angeles Angels,LAA
-668943,Ryan Miller,,,Pitcher,1,53,108,Los Angeles Angels,LAA
-666160,Mickey Moniak,,,Outfielder,8,16,108,Los Angeles Angels,LAA
-519043,Matt Moore,,,Pitcher,1,55,108,Los Angeles Angels,LAA
-687263,Zach Neto,,,Shortstop,6,9,108,Los Angeles Angels,LAA
-681351,Logan O'Hoppe,,,Catcher,2,14,108,Los Angeles Angels,LAA
-677347,Kyren Paris,,,Second Base,4,19,108,Los Angeles Angels,LAA
-607680,Kevin Pillar,,,Outfielder,8,12,108,Los Angeles Angels,LAA
-668676,Zach Plesac,,,Pitcher,1,34,108,Los Angeles Angels,LAA
-650671,José Quijada,,,Pitcher,1,65,108,Los Angeles Angels,LAA
-543685,Anthony Rendon,,,Third Base,5,6,108,Los Angeles Angels,LAA
-650859,Luis Rengifo,,,Third Base,5,2,108,Los Angeles Angels,LAA
-670046,Kenny Rosenberg,,,Pitcher,1,78,108,Los Angeles Angels,LAA
-663776,Patrick Sandoval,,,Pitcher,1,43,108,Los Angeles Angels,LAA
-593934,Miguel Sanó,,,Third Base,5,22,108,Los Angeles Angels,LAA
-694384,Nolan Schanuel,,,First Base,3,18,108,Los Angeles Angels,LAA
-681217,Chase Silseth,,,Pitcher,1,63,108,Los Angeles Angels,LAA
-667755,José Soriano,,,Pitcher,1,59,108,Los Angeles Angels,LAA
-683021,Michael Stefanic,,,Second Base,4,38,108,Los Angeles Angels,LAA
-519326,Hunter Strickland,,,Pitcher,1,61,108,Los Angeles Angels,LAA
-660761,José Suarez,,,Pitcher,1,54,108,Los Angeles Angels,LAA
-669326,Bryce Teodosio,,,Outfielder,8,22,108,Los Angeles Angels,LAA
-642136,Matt Thaiss,,,Catcher,2,21,108,Los Angeles Angels,LAA
-545361,Mike Trout,,,Outfielder,8,27,108,Los Angeles Angels,LAA
-657061,Cole Tucker,,,Third Base,5,8,108,Los Angeles Angels,LAA
-676572,Eric Wagaman,,,Third Base,5,34,108,Los Angeles Angels,LAA
-681806,Andrew Wantz,,,Pitcher,1,60,108,Los Angeles Angels,LAA
-621493,Taylor Ward,,,Outfielder,7,3,108,Los Angeles Angels,LAA
-666171,Ryan Zeferjahn,,,Pitcher,1,56,108,Los Angeles Angels,LAA
-670871,Guillo Zuñiga,,,Pitcher,1,49,108,Los Angeles Angels,LAA
-677942,Blaze Alexander,,,Shortstop,6,9,109,Arizona Diamondbacks,AZ
-663531,Logan Allen,,,Pitcher,1,,109,Arizona Diamondbacks,AZ
-571466,Tucker Barnhart,,,Catcher,2,16,109,Arizona Diamondbacks,AZ
-678489,Jorge Barrosa,,,Outfielder,7,1,109,Arizona Diamondbacks,AZ
-605137,Josh Bell,,,First Base,3,36,109,Arizona Diamondbacks,AZ
-621199,Matt Bowman,,,Pitcher,1,55,109,Arizona Diamondbacks,AZ
-682998,Corbin Carroll,,,Outfielder,8,7,109,Arizona Diamondbacks,AZ
-528748,Humberto Castellanos,,,Pitcher,1,54,109,Arizona Diamondbacks,AZ
-612434,Miguel Castro,,,Pitcher,1,50,109,Arizona Diamondbacks,AZ
-677944,Slade Cecconi,,,Pitcher,1,43,109,Arizona Diamondbacks,AZ
-680728,Adrian Del Castillo,,,Catcher,2,25,109,Arizona Diamondbacks,AZ
-700270,Yilber Díaz,,,Pitcher,1,45,109,Arizona Diamondbacks,AZ
-571670,Dylan Floro,,,Pitcher,1,55,109,Arizona Diamondbacks,AZ
-666818,Luis Frías,,,Pitcher,1,65,109,Arizona Diamondbacks,AZ
-668678,Zac Gallen,,,Pitcher,1,23,109,Arizona Diamondbacks,AZ
-656464,Kevin Ginkel,,,Pitcher,1,37,109,Arizona Diamondbacks,AZ
-545341,Randal Grichuk,,,Outfielder,9,15,109,Arizona Diamondbacks,AZ
-641645,Luis Guillorme,,,Second Base,4,13,109,Arizona Diamondbacks,AZ
-666971,Lourdes Gurriel Jr.,,,Outfielder,7,12,109,Arizona Diamondbacks,AZ
-674072,Tommy Henry,,,Pitcher,1,47,109,Arizona Diamondbacks,AZ
-645444,Jose Herrera,,,Catcher,2,11,109,Arizona Diamondbacks,AZ
-676714,Brandon Hughes,,,Pitcher,1,56,109,Arizona Diamondbacks,AZ
-682175,Joe Jacques,,,Pitcher,1,55,109,Arizona Diamondbacks,AZ
-686826,Bryce Jarvis,,,Pitcher,1,40,109,Arizona Diamondbacks,AZ
-518876,Merrill Kelly,,,Pitcher,1,29,109,Arizona Diamondbacks,AZ
-573009,Joe Mantiply,,,Pitcher,1,35,109,Arizona Diamondbacks,AZ
-606466,Ketel Marte,,,Second Base,4,4,109,Arizona Diamondbacks,AZ
-679885,Justin Martinez,,,Pitcher,1,63,109,Arizona Diamondbacks,AZ
-664983,Jake McCarthy,,,Outfielder,8,31,109,Arizona Diamondbacks,AZ
-543518,Scott McGough,,,Pitcher,1,30,109,Arizona Diamondbacks,AZ
-691441,Cristian Mena,,,Pitcher,1,64,109,Arizona Diamondbacks,AZ
-656756,Jordan Montgomery,,,Pitcher,1,52,109,Arizona Diamondbacks,AZ
-672515,Gabriel Moreno,,,Catcher,2,14,109,Arizona Diamondbacks,AZ
-669459,Kyle Nelson,,,Pitcher,1,24,109,Arizona Diamondbacks,AZ
-669194,Ryne Nelson,,,Pitcher,1,19,109,Arizona Diamondbacks,AZ
-621028,Kevin Newman,,,Shortstop,6,18,109,Arizona Diamondbacks,AZ
-592626,Joc Pederson,,,Designated Hitter,10,3,109,Arizona Diamondbacks,AZ
-672695,Geraldo Perdomo,,,Shortstop,6,2,109,Arizona Diamondbacks,AZ
-607054,Jace Peterson,,,Shortstop,6,6,109,Arizona Diamondbacks,AZ
-694297,Brandon Pfaadt,,,Pitcher,1,32,109,Arizona Diamondbacks,AZ
-640462,A.J. Puk,,,Pitcher,1,33,109,Arizona Diamondbacks,AZ
-593958,Eduardo Rodriguez,,,Pitcher,1,57,109,Arizona Diamondbacks,AZ
-685314,Andrew Saalfrank,,,Pitcher,1,27,109,Arizona Diamondbacks,AZ
-623149,Paul Sewald,,,Pitcher,1,38,109,Arizona Diamondbacks,AZ
-656976,Pavin Smith,,,Outfielder,7,26,109,Arizona Diamondbacks,AZ
-553993,Eugenio Suárez,,,Third Base,5,28,109,Arizona Diamondbacks,AZ
-677950,Alek Thomas,,,Outfielder,8,5,109,Arizona Diamondbacks,AZ
-657044,Ryan Thompson,,,Pitcher,1,81,109,Arizona Diamondbacks,AZ
-600986,Thyago Vieira,,,Pitcher,1,49,109,Arizona Diamondbacks,AZ
-572233,Christian Walker,,,First Base,3,53,109,Arizona Diamondbacks,AZ
-686796,Blake Walston,,,Pitcher,1,48,109,Arizona Diamondbacks,AZ
-669211,Keegan Akin,,,Pitcher,1,45,110,Baltimore Orioles,BAL
-641329,Bryan Baker,,,Pitcher,1,43,110,Baltimore Orioles,BAL
-675915,David Bañuelos,,,Catcher,2,91,110,Baltimore Orioles,BAL
-657508,Mike Baumann,,,Pitcher,1,53,110,Baltimore Orioles,BAL
-621199,Matt Bowman,,,Pitcher,1,51,110,Baltimore Orioles,BAL
-680694,Kyle Bradish,,,Pitcher,1,38,110,Baltimore Orioles,BAL
-669203,Corbin Burnes,,,Pitcher,1,39,110,Baltimore Orioles,BAL
-666974,Yennier Cano,,,Pitcher,1,78,110,Baltimore Orioles,BAL
-543056,Danny Coulombe,,,Pitcher,1,54,110,Baltimore Orioles,BAL
-681297,Colton Cowser,,,Outfielder,7,17,110,Baltimore Orioles,BAL
-656353,Tucker Davidson,,,Pitcher,1,67,110,Baltimore Orioles,BAL
-622554,Seranthony Domínguez,,,Pitcher,1,56,110,Baltimore Orioles,BAL
-621107,Zach Eflin,,,Pitcher,1,24,110,Baltimore Orioles,BAL
-669720,Austin Hays,,,Outfielder,7,21,110,Baltimore Orioles,BAL
-669169,Jonathan Heasley,,,Pitcher,1,52,110,Baltimore Orioles,BAL
-683002,Gunnar Henderson,,,Shortstop,6,2,110,Baltimore Orioles,BAL
-702616,Jackson Holliday,,,Second Base,4,7,110,Baltimore Orioles,BAL
-608344,Cole Irvin,,,Pitcher,1,19,110,Baltimore Orioles,BAL
-650391,Eloy Jiménez,,,Designated Hitter,10,72,110,Baltimore Orioles,BAL
-669288,Daniel Johnson,,,Outfielder,8,53,110,Baltimore Orioles,BAL
-643393,Tony Kemp,,,Second Base,4,12,110,Baltimore Orioles,BAL
-518886,Craig Kimbrel,,,Pitcher,1,46,110,Baltimore Orioles,BAL
-677008,Heston Kjerstad,,,Outfielder,7,13,110,Baltimore Orioles,BAL
-665152,Dean Kremer,,,Pitcher,1,64,110,Baltimore Orioles,BAL
-640454,Matt Krook,,,Pitcher,1,66,110,Baltimore Orioles,BAL
-622761,Jorge Mateo,,,Second Base,4,3,110,Baltimore Orioles,BAL
-665155,Nick Maton,,,Third Base,5,63,110,Baltimore Orioles,BAL
-691723,Coby Mayo,,,Third Base,5,16,110,Baltimore Orioles,BAL
-543510,James McCann,,,Catcher,2,27,110,Baltimore Orioles,BAL
-694646,Chayce McDermott,,,Pitcher,1,60,110,Baltimore Orioles,BAL
-663630,Ryan McKenna,,,Outfielder,9,26,110,Baltimore Orioles,BAL
-607644,John Means,,,Pitcher,1,47,110,Baltimore Orioles,BAL
-663624,Ryan Mountcastle,,,First Base,3,6,110,Baltimore Orioles,BAL
-656775,Cedric Mullins,,,Outfielder,8,31,110,Baltimore Orioles,BAL
-657697,Vinny Nittoli,,,Pitcher,1,67,110,Baltimore Orioles,BAL
-681393,Connor Norby,,,Second Base,4,12,110,Baltimore Orioles,BAL
-656811,Ryan O'Hearn,,,First Base,3,32,110,Baltimore Orioles,BAL
-665506,Cristian Pache,,,Outfielder,8,26,110,Baltimore Orioles,BAL
-672335,Cionel Pérez,,,Pitcher,1,58,110,Baltimore Orioles,BAL
-700249,Cade Povich,,,Pitcher,1,37,110,Baltimore Orioles,BAL
-670990,Yohan Ramírez,,,Pitcher,1,48,110,Baltimore Orioles,BAL
-656896,Emmanuel Rivera,,,Third Base,5,26,110,Baltimore Orioles,BAL
-680570,Grayson Rodriguez,,,Pitcher,1,30,110,Baltimore Orioles,BAL
-669432,Trevor Rogers,,,Pitcher,1,28,110,Baltimore Orioles,BAL
-668939,Adley Rutschman,,,Catcher,2,35,110,Baltimore Orioles,BAL
-623993,Anthony Santander,,,Outfielder,9,25,110,Baltimore Orioles,BAL
-681882,Colin Selby,,,Pitcher,1,60,110,Baltimore Orioles,BAL
-596103,Austin Slater,,,Outfielder,9,15,110,Baltimore Orioles,BAL
-572143,Burch Smith,,,Pitcher,1,40,110,Baltimore Orioles,BAL
-642397,Gregory Soto,,,Pitcher,1,65,110,Baltimore Orioles,BAL
-670869,Livan Soto,,,Shortstop,6,73,110,Baltimore Orioles,BAL
-669065,Kyle Stowers,,,Outfielder,7,28,110,Baltimore Orioles,BAL
-544150,Albert Suárez,,,Pitcher,1,49,110,Baltimore Orioles,BAL
-622253,Dillon Tate,,,Pitcher,1,55,110,Baltimore Orioles,BAL
-602104,Ramón Urías,,,Third Base,5,29,110,Baltimore Orioles,BAL
-663989,Nick Vespi,,,Pitcher,1,79,110,Baltimore Orioles,BAL
-600986,Thyago Vieira,,,Pitcher,1,40,110,Baltimore Orioles,BAL
-657097,Jacob Webb,,,Pitcher,1,71,110,Baltimore Orioles,BAL
-669330,Tyler Wells,,,Pitcher,1,68,110,Baltimore Orioles,BAL
-676059,Jordan Westburg,,,Third Base,5,11,110,Baltimore Orioles,BAL
-677800,Wilyer Abreu,,,Outfielder,9,52,111,Boston Red Sox,BOS
-502624,Chase Anderson,,,Pitcher,1,48,111,Boston Red Sox,BOS
-678394,Brayan Bello,,,Pitcher,1,66,111,Boston Red Sox,BOS
-657514,Brennan Bernardino,,,Pitcher,1,83,111,Boston Red Sox,BOS
-592155,Cam Booser,,,Pitcher,1,71,111,Boston Red Sox,BOS
-663462,Isaiah Campbell,,,Pitcher,1,44,111,Boston Red Sox,BOS
-671213,Triston Casas,,,First Base,3,36,111,Boston Red Sox,BOS
-643265,Garrett Cooper,,,First Base,3,28,111,Boston Red Sox,BOS
-676710,Kutter Crawford,,,Pitcher,1,50,111,Boston Red Sox,BOS
-681867,Cooper Criswell,,,Pitcher,1,64,111,Boston Red Sox,BOS
-666915,Bobby Dalbec,,,First Base,3,29,111,Boston Red Sox,BOS
-646240,Rafael Devers,,,Third Base,5,11,111,Boston Red Sox,BOS
-680776,Jarren Duran,,,Outfielder,8,16,111,Boston Red Sox,BOS
-690916,Richard Fitts,,,Pitcher,1,80,111,Boston Red Sox,BOS
-472610,Luis García,,,Pitcher,1,40,111,Boston Red Sox,BOS
-681508,Mickey Gasper,,,Second Base,4,77,111,Boston Red Sox,BOS
-663853,Romy Gonzalez,,,Second Base,4,23,111,Boston Red Sox,BOS
-687093,Vaughn Grissom,,,Second Base,4,5,111,Boston Red Sox,BOS
-692285,Luis Guerrero,,,Pitcher,1,99,111,Boston Red Sox,BOS
-666152,David Hamilton,,,Shortstop,6,70,111,Boston Red Sox,BOS
-623168,Tyler Heineman,,,Catcher,2,32,111,Boston Red Sox,BOS
-448179,Rich Hill,,,Pitcher,1,44,111,Boston Red Sox,BOS
-690544,Bailey Horn,,,Pitcher,1,78,111,Boston Red Sox,BOS
-656557,Tanner Houck,,,Pitcher,1,89,111,Boston Red Sox,BOS
-682175,Joe Jacques,,,Pitcher,1,78,111,Boston Red Sox,BOS
-643376,Danny Jansen,,,Catcher,2,28,111,Boston Red Sox,BOS
-445276,Kenley Jansen,,,Pitcher,1,74,111,Boston Red Sox,BOS
-641745,Brad Keller,,,Pitcher,1,46,111,Boston Red Sox,BOS
-677161,Zack Kelly,,,Pitcher,1,76,111,Boston Red Sox,BOS
-455119,Chris Martin,,,Pitcher,1,55,111,Boston Red Sox,BOS
-624512,Reese McGuire,,,Catcher,2,3,111,Boston Red Sox,BOS
-641933,Tyler O'Neill,,,Outfielder,7,17,111,Boston Red Sox,BOS
-572020,James Paxton,,,Pitcher,1,65,111,Boston Red Sox,BOS
-683068,Zach Penrod,,,Pitcher,1,67,111,Boston Red Sox,BOS
-601713,Nick Pivetta,,,Pitcher,1,37,111,Boston Red Sox,BOS
-682990,Quinn Priester,,,Pitcher,1,68,111,Boston Red Sox,BOS
-678882,Ceddanne Rafaela,,,Shortstop,6,43,111,Boston Red Sox,BOS
-670990,Yohan Ramírez,,,Pitcher,1,48,111,Boston Red Sox,BOS
-608701,Rob Refsnyder,,,Outfielder,7,30,111,Boston Red Sox,BOS
-622569,Pablo Reyes,,,Third Base,5,19,111,Boston Red Sox,BOS
-570257,Joely Rodríguez,,,Pitcher,1,56,111,Boston Red Sox,BOS
-670097,Zack Short,,,Third Base,5,18,111,Boston Red Sox,BOS
-663767,Chase Shugart,,,Pitcher,1,61,111,Boston Red Sox,BOS
-608371,Lucas Sims,,,Pitcher,1,39,111,Boston Red Sox,BOS
-686580,Justin Slaten,,,Pitcher,1,63,111,Boston Red Sox,BOS
-642086,Dominic Smith,,,First Base,3,2,111,Boston Red Sox,BOS
-686765,Nick Sogard,,,Second Base,4,75,111,Boston Red Sox,BOS
-596115,Trevor Story,,,Shortstop,6,10,111,Boston Red Sox,BOS
-683822,Naoyuki Uwasawa,,,Pitcher,1,39,111,Boston Red Sox,BOS
-665839,Enmanuel Valdez,,,Second Base,4,47,111,Boston Red Sox,BOS
-669711,Greg Weissert,,,Pitcher,1,57,111,Boston Red Sox,BOS
-642197,Jamie Westbrook,,,Second Base,4,73,111,Boston Red Sox,BOS
-676477,Garrett Whitlock,,,Pitcher,1,22,111,Boston Red Sox,BOS
-670174,Josh Winckowski,,,Pitcher,1,25,111,Boston Red Sox,BOS
-622259,Trey Wingenter,,,Pitcher,1,61,111,Boston Red Sox,BOS
-657136,Connor Wong,,,Catcher,2,12,111,Boston Red Sox,BOS
-807799,Masataka Yoshida,,,Outfielder,7,7,111,Boston Red Sox,BOS
-682634,Kevin Alcántara,,,Outfielder,9,13,112,Chicago Cubs,CHC
-622075,Yency Almonte,,,Pitcher,1,25,112,Chicago Cubs,CHC
-640470,Adbert Alzolay,,,Pitcher,1,73,112,Chicago Cubs,CHC
-665804,Miguel Amaya,,,Catcher,2,9,112,Chicago Cubs,CHC
-542888,Shawn Armstrong,,,Pitcher,1,64,112,Chicago Cubs,CHC
-665871,Javier Assad,,,Pitcher,1,72,112,Chicago Cubs,CHC
-641355,Cody Bellinger,,,Outfielder,8,24,112,Chicago Cubs,CHC
-542194,Christian Bethancourt,,,Catcher,2,60,112,Chicago Cubs,CHC
-685801,Hunter Bigge,,,Pitcher,1,47,112,Chicago Cubs,CHC
-623520,David Bote,,,Third Base,5,13,112,Chicago Cubs,CHC
-605155,Colten Brewer,,,Pitcher,1,54,112,Chicago Cubs,CHC
-676962,Ben Brown,,,Pitcher,1,32,112,Chicago Cubs,CHC
-683737,Michael Busch,,,First Base,3,29,112,Chicago Cubs,CHC
-672744,Alexander Canario,,,Outfielder,7,4,112,Chicago Cubs,CHC
-643265,Garrett Cooper,,,First Base,3,41,112,Chicago Cubs,CHC
-691718,Pete Crow-Armstrong,,,Outfielder,8,52,112,Chicago Cubs,CHC
-621016,Jose Cuas,,,Pitcher,1,74,112,Chicago Cubs,CHC
-543228,Yan Gomes,,,Catcher,2,15,112,Chicago Cubs,CHC
-664023,Ian Happ,,,Outfielder,7,8,112,Chicago Cubs,CHC
-543294,Kyle Hendricks,,,Pitcher,1,28,112,Chicago Cubs,CHC
-687863,Porter Hodge,,,Pitcher,1,37,112,Chicago Cubs,CHC
-663538,Nico Hoerner,,,Second Base,4,2,112,Chicago Cubs,CHC
-668970,Gavin Hollowell,,,Pitcher,1,46,112,Chicago Cubs,CHC
-684007,Shota Imanaga,,,Pitcher,1,18,112,Chicago Cubs,CHC
-668873,Caleb Kilian,,,Pitcher,1,45,112,Chicago Cubs,CHC
-643410,Mark Leiter Jr.,,,Pitcher,1,38,112,Chicago Cubs,CHC
-681432,Luke Little,,,Pitcher,1,43,112,Chicago Cubs,CHC
-605347,Jorge López,,,Pitcher,1,41,112,Chicago Cubs,CHC
-663992,Richard Lovelady,,,Pitcher,1,49,112,Chicago Cubs,CHC
-663611,Nick Madrigal,,,Third Base,5,1,112,Chicago Cubs,CHC
-670156,Miles Mastrobuoni,,,Shortstop,6,20,112,Chicago Cubs,CHC
-657240,Julian Merryweather,,,Pitcher,1,66,112,Chicago Cubs,CHC
-670223,Matt Mervis,,,First Base,3,22,112,Chicago Cubs,CHC
-668338,Tyson Miller,,,Pitcher,1,49,112,Chicago Cubs,CHC
-666624,Christopher Morel,,,Third Base,5,5,112,Chicago Cubs,CHC
-680891,Jack Neely,,,Pitcher,1,47,112,Chicago Cubs,CHC
-593576,Héctor Neris,,,Pitcher,1,51,112,Chicago Cubs,CHC
-621512,Tomás Nido,,,Catcher,2,6,112,Chicago Cubs,CHC
-694037,Daniel Palencia,,,Pitcher,1,48,112,Chicago Cubs,CHC
-660600,Enoli Paredes,,,Pitcher,1,59,112,Chicago Cubs,CHC
-670623,Isaac Paredes,,,Third Base,5,17,112,Chicago Cubs,CHC
-663878,Nate Pearson,,,Pitcher,1,56,112,Chicago Cubs,CHC
-681799,Ethan Roberts,,,Pitcher,1,39,112,Chicago Cubs,CHC
-592767,Drew Smyly,,,Pitcher,1,11,112,Chicago Cubs,CHC
-657006,Justin Steele,,,Pitcher,1,35,112,Chicago Cubs,CHC
-673548,Seiya Suzuki,,,Outfielder,9,27,112,Chicago Cubs,CHC
-621020,Dansby Swanson,,,Shortstop,6,7,112,Chicago Cubs,CHC
-592791,Jameson Taillon,,,Pitcher,1,50,112,Chicago Cubs,CHC
-643565,Mike Tauchman,,,Outfielder,9,40,112,Chicago Cubs,CHC
-624522,Keegan Thompson,,,Pitcher,1,71,112,Chicago Cubs,CHC
-622786,Jesus Tinoco,,,Pitcher,1,0,112,Chicago Cubs,CHC
-676679,Luis Vázquez,,,Shortstop,6,12,112,Chicago Cubs,CHC
-669713,Hayden Wesneski,,,Pitcher,1,19,112,Chicago Cubs,CHC
-696136,Jordan Wicks,,,Pitcher,1,36,112,Chicago Cubs,CHC
-622259,Trey Wingenter,,,Pitcher,1,38,112,Chicago Cubs,CHC
-621550,Patrick Wisdom,,,First Base,3,16,112,Chicago Cubs,CHC
-671096,Andrew Abbott,,,Pitcher,1,41,113,Cincinnati Reds,CIN
-687924,Julian Aguiar,,,Pitcher,1,39,113,Cincinnati Reds,CIN
-622088,Tejay Antone,,,Pitcher,1,70,113,Cincinnati Reds,CIN
-668933,Graham Ashcraft,,,Pitcher,1,51,113,Cincinnati Reds,CIN
-666181,Will Benson,,,Outfielder,7,30,113,Cincinnati Reds,CIN
-571527,David Buchanan,,,Pitcher,1,58,113,Cincinnati Reds,CIN
-641427,Alan Busenitz,,,Pitcher,1,49,113,Cincinnati Reds,CIN
-600869,Jeimer Candelario,,,Third Base,5,3,113,Cincinnati Reds,CIN
-668843,Conner Capel,,,Outfielder,7,49,113,Cincinnati Reds,CIN
-518585,Fernando Cruz,,,Pitcher,1,63,113,Cincinnati Reds,CIN
-682829,Elly De La Cruz,,,Shortstop,6,44,113,Cincinnati Reds,CIN
-664747,Alexis Díaz,,,Pitcher,1,43,113,Cincinnati Reds,CIN
-694362,Blake Dunn,,,Outfielder,7,59,113,Cincinnati Reds,CIN
-687952,Christian Encarnacion-Strand,,,First Base,3,33,113,Cincinnati Reds,CIN
-669289,Santiago Espinal,,,Third Base,5,4,113,Cincinnati Reds,CIN
-656413,Stuart Fairchild,,,Outfielder,8,17,113,Cincinnati Reds,CIN
-571656,Buck Farmer,,,Pitcher,1,46,113,Cincinnati Reds,CIN
-645801,Mike Ford,,,First Base,3,38,113,Cincinnati Reds,CIN
-641584,Jake Fraley,,,Outfielder,9,27,113,Cincinnati Reds,CIN
-664034,Ty France,,,First Base,3,2,113,Cincinnati Reds,CIN
-670770,TJ Friedl,,,Outfielder,8,29,113,Cincinnati Reds,CIN
-664139,Ian Gibaut,,,Pitcher,1,79,113,Cincinnati Reds,CIN
-668881,Hunter Greene,,,Pitcher,1,21,113,Cincinnati Reds,CIN
-677956,Rece Hinds,,,Outfielder,9,57,113,Cincinnati Reds,CIN
-674441,Jacob Hurtubise,,,Outfielder,7,26,113,Cincinnati Reds,CIN
-663697,Jonathan India,,,Second Base,4,6,113,Cincinnati Reds,CIN
-682119,Levi Jordan,,,Outfielder,8,53,113,Cincinnati Reds,CIN
-596001,Jakob Junis,,,Pitcher,1,47,113,Cincinnati Reds,CIN
-543391,Casey Kelly,,,Pitcher,1,84,113,Cincinnati Reds,CIN
-667478,Evan Kravetz,,,Pitcher,1,66,113,Cincinnati Reds,CIN
-668984,Casey Legumina,,,Pitcher,1,65,113,Cincinnati Reds,CIN
-605335,Brandon Leibrandt,,,Pitcher,1,82,113,Cincinnati Reds,CIN
-666157,Nick Lodolo,,,Pitcher,1,40,113,Cincinnati Reds,CIN
-695076,Rhett Lowder,,,Pitcher,1,81,113,Cincinnati Reds,CIN
-571912,Luke Maile,,,Catcher,2,22,113,Cincinnati Reds,CIN
-682622,Noelvi Marte,,,Third Base,5,16,113,Cincinnati Reds,CIN
-607259,Nick Martinez,,,Pitcher,1,28,113,Cincinnati Reds,CIN
-605361,Nick Martini,,,Outfielder,9,23,113,Cincinnati Reds,CIN
-594580,Sam Moll,,,Pitcher,1,50,113,Cincinnati Reds,CIN
-593423,Frankie Montas,,,Pitcher,1,47,113,Cincinnati Reds,CIN
-641941,Emilio Pagán,,,Pitcher,1,15,113,Cincinnati Reds,CIN
-680689,Lyon Richardson,,,Pitcher,1,72,113,Cincinnati Reds,CIN
-621458,Edwin Ríos,,,First Base,3,,113,Cincinnati Reds,CIN
-642708,Amed Rosario,,,Outfielder,9,38,113,Cincinnati Reds,CIN
-663574,Tony Santillan,,,Pitcher,1,64,113,Cincinnati Reds,CIN
-608371,Lucas Sims,,,Pitcher,1,39,113,Cincinnati Reds,CIN
-596103,Austin Slater,,,Outfielder,9,48,113,Cincinnati Reds,CIN
-642086,Dominic Smith,,,First Base,3,0,113,Cincinnati Reds,CIN
-686730,Carson Spiers,,,Pitcher,1,68,113,Cincinnati Reds,CIN
-668715,Spencer Steer,,,Outfielder,7,7,113,Cincinnati Reds,CIN
-663886,Tyler Stephenson,,,Catcher,2,37,113,Cincinnati Reds,CIN
-608718,Brent Suter,,,Pitcher,1,31,113,Cincinnati Reds,CIN
-669352,Bubba Thompson,,,Outfielder,8,12,113,Cincinnati Reds,CIN
-686894,Joey Wiemer,,,Outfielder,7,48,113,Cincinnati Reds,CIN
-682227,Brandon Williamson,,,Pitcher,1,55,113,Cincinnati Reds,CIN
-458677,Justin Wilson,,,Pitcher,1,32,113,Cincinnati Reds,CIN
-642851,Austin Wynns,,,Catcher,2,35,113,Cincinnati Reds,CIN
-687066,Eric Yang,,,Catcher,2,69,113,Cincinnati Reds,CIN
-622065,Alex Young,,,Pitcher,1,48,113,Cincinnati Reds,CIN
-691172,Yosver Zulueta,,,Pitcher,1,67,113,Cincinnati Reds,CIN
-671106,Logan Allen,,,Pitcher,1,41,114,Cleveland Guardians,CLE
-672356,Gabriel Arias,,,Third Base,5,13,114,Cleveland Guardians,CLE
-658648,Pedro Avila,,,Pitcher,1,60,114,Cleveland Guardians,CLE
-605130,Scott Barlow,,,Pitcher,1,58,114,Cleveland Guardians,CLE
-595881,Tyler Beede,,,Pitcher,1,46,114,Cleveland Guardians,CLE
-676440,Tanner Bibee,,,Pitcher,1,28,114,Cleveland Guardians,CLE
-669456,Shane Bieber,,,Pitcher,1,57,114,Cleveland Guardians,CLE
-571510,Matthew Boyd,,,Pitcher,1,16,114,Cleveland Guardians,CLE
-686823,Will Brennan,,,Outfielder,9,17,114,Cleveland Guardians,CLE
-676282,Joey Cantillo,,,Pitcher,1,54,114,Cleveland Guardians,CLE
-471911,Carlos Carrasco,,,Pitcher,1,59,114,Cleveland Guardians,CLE
-661403,Emmanuel Clase,,,Pitcher,1,48,114,Cleveland Guardians,CLE
-502171,Alex Cobb,,,Pitcher,1,35,114,Cleveland Guardians,CLE
-675540,Xzavion Curry,,,Pitcher,1,44,114,Cleveland Guardians,CLE
-664314,Estevan Florial,,,Outfielder,7,90,114,Cleveland Guardians,CLE
-671289,Tyler Freeman,,,Outfielder,8,2,114,Cleveland Guardians,CLE
-681807,David Fry,,,First Base,3,6,114,Cleveland Guardians,CLE
-683769,Hunter Gaddis,,,Pitcher,1,33,114,Cleveland Guardians,CLE
-687362,Connor Gillispie,,,Pitcher,1,61,114,Cleveland Guardians,CLE
-665926,Andrés Giménez,,,Second Base,4,0,114,Cleveland Guardians,CLE
-543238,Anthony Gose,,,Pitcher,1,26,114,Cleveland Guardians,CLE
-595978,Austin Hedges,,,Catcher,2,27,114,Cleveland Guardians,CLE
-656529,Sam Hentges,,,Pitcher,1,31,114,Cleveland Guardians,CLE
-682120,Tim Herrin,,,Pitcher,1,29,114,Cleveland Guardians,CLE
-675921,Spencer Howard,,,Pitcher,1,54,114,Cleveland Guardians,CLE
-680757,Steven Kwan,,,Outfielder,7,38,114,Cleveland Guardians,CLE
-657656,Ramón Laureano,,,Outfielder,9,10,114,Cleveland Guardians,CLE
-594902,Ben Lively,,,Pitcher,1,39,114,Cleveland Guardians,CLE
-700932,Kyle Manzardo,,,First Base,3,9,114,Cleveland Guardians,CLE
-682657,Angel Martínez,,,Outfielder,8,1,114,Cleveland Guardians,CLE
-670766,Darren McCaughan,,,Pitcher,1,56,114,Cleveland Guardians,CLE
-663474,Triston McKenzie,,,Pitcher,1,24,114,Cleveland Guardians,CLE
-669212,Eli Morgan,,,Pitcher,1,49,114,Cleveland Guardians,CLE
-666310,Bo Naylor,,,Catcher,2,23,114,Cleveland Guardians,CLE
-647304,Josh Naylor,,,First Base,3,22,114,Cleveland Guardians,CLE
-678877,Jhonkensy Noel,,,Outfielder,9,43,114,Cleveland Guardians,CLE
-641149,Wes Parsons,,,Pitcher,1,47,114,Cleveland Guardians,CLE
-608070,José Ramírez,,,Third Base,5,11,114,Cleveland Guardians,CLE
-677587,Brayan Rocchio,,,Shortstop,6,4,114,Cleveland Guardians,CLE
-671286,Johnathan Rodríguez,,,Outfielder,9,30,114,Cleveland Guardians,CLE
-681870,Erik Sabrowski,,,Pitcher,1,62,114,Cleveland Guardians,CLE
-680704,Nick Sandlin,,,Pitcher,1,52,114,Cleveland Guardians,CLE
-682177,Daniel Schneemann,,,Shortstop,6,10,114,Cleveland Guardians,CLE
-671922,Cade Smith,,,Pitcher,1,36,114,Cleveland Guardians,CLE
-664702,Myles Straw,,,Outfielder,8,7,114,Cleveland Guardians,CLE
-657265,Peter Strzelecki,,,Pitcher,1,34,114,Cleveland Guardians,CLE
-677588,José Tena,,,Third Base,5,8,114,Cleveland Guardians,CLE
-657041,Lane Thomas,,,Outfielder,9,8,114,Cleveland Guardians,CLE
-689958,Andrew Walters,,,Pitcher,1,63,114,Cleveland Guardians,CLE
-668909,Gavin Williams,,,Pitcher,1,32,114,Cleveland Guardians,CLE
-691182,Adael Amador,,,Second Base,4,1,115,Colorado Rockies,COL
-687597,Jordan Beck,,,Outfielder,7,27,115,Colorado Rockies,COL
-656222,Jalen Beeks,,,Pitcher,1,68,115,Colorado Rockies,COL
-656234,Jake Bird,,,Pitcher,1,59,115,Colorado Rockies,COL
-621389,Ty Blach,,,Pitcher,1,50,115,Colorado Rockies,COL
-453568,Charlie Blackmon,,,Outfielder,9,19,115,Colorado Rockies,COL
-687134,Bradley Blalock,,,Pitcher,1,64,115,Colorado Rockies,COL
-656248,Sean Bouchard,,,Outfielder,9,12,115,Colorado Rockies,COL
-592178,Kris Bryant,,,Outfielder,9,23,115,Colorado Rockies,COL
-571539,Matt Carasiti,,,Pitcher,1,29,115,Colorado Rockies,COL
-595909,Jake Cave,,,Outfielder,9,11,115,Colorado Rockies,COL
-683409,Angel Chivilli,,,Pitcher,1,57,115,Colorado Rockies,COL
-676105,Jeff Criswell,,,Pitcher,1,46,115,Colorado Rockies,COL
-595928,John Curtiss,,,Pitcher,1,37,115,Colorado Rockies,COL
-663562,Noah Davis,,,Pitcher,1,63,115,Colorado Rockies,COL
-553869,Elias Díaz,,,Catcher,2,35,115,Colorado Rockies,COL
-686668,Brenton Doyle,,,Outfielder,8,9,115,Colorado Rockies,COL
-663372,Ryan Feltner,,,Pitcher,1,18,115,Colorado Rockies,COL
-607536,Kyle Freeland,,,Pitcher,1,21,115,Colorado Rockies,COL
-656458,Lucas Gilbreath,,,Pitcher,1,58,115,Colorado Rockies,COL
-596295,Austin Gomber,,,Pitcher,1,26,115,Colorado Rockies,COL
-696100,Hunter Goodman,,,Catcher,2,15,115,Colorado Rockies,COL
-685299,Tanner Gordon,,,Pitcher,1,29,115,Colorado Rockies,COL
-678020,Seth Halvorsen,,,Pitcher,1,54,115,Colorado Rockies,COL
-664129,Geoff Hartlieb,,,Pitcher,1,36,115,Colorado Rockies,COL
-677955,Jaden Hill,,,Pitcher,1,0,115,Colorado Rockies,COL
-656541,Sam Hilliard,,,Outfielder,7,16,115,Colorado Rockies,COL
-641712,Dakota Hudson,,,Pitcher,1,32,115,Colorado Rockies,COL
-675659,Greg Jones,,,Outfielder,9,2,115,Colorado Rockies,COL
-666134,Nolan Jones,,,Outfielder,7,22,115,Colorado Rockies,COL
-687145,Evan Justice,,,Pitcher,1,56,115,Colorado Rockies,COL
-641755,Tyler Kinley,,,Pitcher,1,40,115,Colorado Rockies,COL
-571863,Matt Koch,,,Pitcher,1,54,115,Colorado Rockies,COL
-663567,Peter Lambert,,,Pitcher,1,20,115,Colorado Rockies,COL
-664875,Justin Lawrence,,,Pitcher,1,61,115,Colorado Rockies,COL
-608566,Germán Márquez,,,Pitcher,1,48,115,Colorado Rockies,COL
-641857,Ryan McMahon,,,Third Base,5,24,115,Colorado Rockies,COL
-683232,Nick Mears,,,Pitcher,1,46,115,Colorado Rockies,COL
-683627,Anthony Molina,,,Pitcher,1,43,115,Colorado Rockies,COL
-660707,Elehuris Montero,,,First Base,3,44,115,Colorado Rockies,COL
-678821,Luis Peralta,,,Pitcher,1,41,115,Colorado Rockies,COL
-666207,Riley Pint,,,Pitcher,1,41,115,Colorado Rockies,COL
-615698,Cal Quantrill,,,Pitcher,1,47,115,Colorado Rockies,COL
-663898,Brendan Rodgers,,,Second Base,4,7,115,Colorado Rockies,COL
-642028,Josh Rogers,,,Pitcher,1,60,115,Colorado Rockies,COL
-691011,Drew Romo,,,Catcher,2,3,115,Colorado Rockies,COL
-668845,Aaron Schunk,,,Second Base,4,30,115,Colorado Rockies,COL
-622608,Antonio Senzatela,,,Pitcher,1,49,115,Colorado Rockies,COL
-592741,Chasen Shreve,,,Pitcher,1,46,115,Colorado Rockies,COL
-607732,Jacob Stallings,,,Catcher,2,25,115,Colorado Rockies,COL
-669911,Michael Toglia,,,First Base,3,4,115,Colorado Rockies,COL
-678662,Ezequiel Tovar,,,Shortstop,6,14,115,Colorado Rockies,COL
-676701,Alan Trejo,,,Second Base,4,13,115,Colorado Rockies,COL
-680767,Victor Vodnik,,,Pitcher,1,38,115,Colorado Rockies,COL
-668731,Akil Baddoo,,,Outfielder,7,60,116,Detroit Tigers,DET
-595879,Javier Báez,,,Shortstop,6,28,116,Detroit Tigers,DET
-689225,Beau Brieske,,,Pitcher,1,4,116,Detroit Tigers,DET
-592192,Mark Canha,,,First Base,3,21,116,Detroit Tigers,DET
-681481,Kerry Carpenter,,,Outfielder,9,30,116,Detroit Tigers,DET
-605177,Andrew Chafin,,,Pitcher,1,17,116,Detroit Tigers,DET
-693307,Dillon Dingler,,,Catcher,2,38,116,Detroit Tigers,DET
-669438,Mason Englert,,,Pitcher,1,53,116,Detroit Tigers,DET
-656412,Alex Faedo,,,Pitcher,1,49,116,Detroit Tigers,DET
-656427,Jack Flaherty,,,Pitcher,1,9,116,Detroit Tigers,DET
-671345,Jason Foley,,,Pitcher,1,68,116,Detroit Tigers,DET
-682985,Riley Greene,,,Outfielder,7,31,116,Detroit Tigers,DET
-674944,Sean Guenther,,,Pitcher,1,73,116,Detroit Tigers,DET
-669724,Brenan Hanifee,,,Pitcher,1,75,116,Detroit Tigers,DET
-663947,Tyler Holton,,,Pitcher,1,87,116,Detroit Tigers,DET
-676428,Brant Hurter,,,Pitcher,1,48,116,Detroit Tigers,DET
-628451,Andy Ibáñez,,,Second Base,4,77,116,Detroit Tigers,DET
-695549,Jackson Jobe,,,Pitcher,1,21,116,Detroit Tigers,DET
-690291,Jace Jung,,,Third Base,5,17,116,Detroit Tigers,DET
-690993,Colt Keith,,,Second Base,4,33,116,Detroit Tigers,DET
-608348,Carson Kelly,,,Catcher,2,15,116,Detroit Tigers,DET
-671083,Buddy Kennedy,,,Second Base,4,40,116,Detroit Tigers,DET
-668952,Ryan Kreidler,,,Shortstop,6,32,116,Detroit Tigers,DET
-656638,Alex Lange,,,Pitcher,1,55,116,Detroit Tigers,DET
-687922,Easton Lucas,,,Pitcher,1,57,116,Detroit Tigers,DET
-680744,Ty Madden,,,Pitcher,1,36,116,Detroit Tigers,DET
-676632,Bligh Madris,,,First Base,3,40,116,Detroit Tigers,DET
-628317,Kenta Maeda,,,Pitcher,1,18,116,Detroit Tigers,DET
-669234,Justyn-Henry Malloy,,,Outfielder,7,44,116,Detroit Tigers,DET
-666159,Matt Manning,,,Pitcher,1,25,116,Detroit Tigers,DET
-656716,Zach McKinstry,,,Shortstop,6,39,116,Detroit Tigers,DET
-678009,Parker Meadows,,,Outfielder,8,22,116,Detroit Tigers,DET
-571946,Shelby Miller,,,Pitcher,1,7,116,Detroit Tigers,DET
-663554,Casey Mize,,,Pitcher,1,12,116,Detroit Tigers,DET
-672456,Keider Montero,,,Pitcher,1,54,116,Detroit Tigers,DET
-681857,Reese Olson,,,Pitcher,1,45,116,Detroit Tigers,DET
-672761,Wenceel Pérez,,,Outfielder,9,46,116,Detroit Tigers,DET
-668670,Jake Rogers,,,Catcher,2,34,116,Detroit Tigers,DET
-676614,Bryan Sammons,,,Pitcher,1,62,116,Detroit Tigers,DET
-669373,Tarik Skubal,,,Pitcher,1,29,116,Detroit Tigers,DET
-700242,Trey Sweeney,,,Shortstop,6,27,116,Detroit Tigers,DET
-679529,Spencer Torkelson,,,First Base,3,20,116,Detroit Tigers,DET
-570482,Gio Urshela,,,Third Base,5,13,116,Detroit Tigers,DET
-676568,Ricky Vanasco,,,Pitcher,1,57,116,Detroit Tigers,DET
-676684,Will Vest,,,Pitcher,1,19,116,Detroit Tigers,DET
-663837,Matt Vierling,,,Outfielder,8,8,116,Detroit Tigers,DET
-668723,Ryan Vilade,,,Outfielder,7,50,116,Detroit Tigers,DET
-666214,Joey Wentz,,,Pitcher,1,43,116,Detroit Tigers,DET
-650556,Bryan Abreu,,,Pitcher,1,52,117,Houston Astros,HOU
-547989,José Abreu,,,First Base,3,79,117,Houston Astros,HOU
-514888,Jose Altuve,,,Second Base,4,27,117,Houston Astros,HOU
-670541,Yordan Alvarez,,,Outfielder,7,44,117,Houston Astros,HOU
-676070,Jacob Amaya,,,Second Base,4,15,117,Houston Astros,HOU
-681293,Spencer Arrighetti,,,Pitcher,1,41,117,Houston Astros,HOU
-656232,Brandon Bielak,,,Pitcher,1,64,117,Houston Astros,HOU
-669854,Ronel Blanco,,,Pitcher,1,56,117,Houston Astros,HOU
-814005,Jake Bloss,,,Pitcher,1,39,117,Houston Astros,HOU
-608324,Alex Bregman,,,Third Base,5,2,117,Houston Astros,HOU
-686613,Hunter Brown,,,Pitcher,1,58,117,Houston Astros,HOU
-663550,Trey Cabbage,,,Outfielder,9,38,117,Houston Astros,HOU
-605170,Victor Caratini,,,Catcher,2,17,117,Houston Astros,HOU
-669395,Dylan Coleman,,,Pitcher,1,54,117,Houston Astros,HOU
-664351,Luis Contreras,,,Pitcher,1,73,117,Houston Astros,HOU
-701305,Zach Dezenzo,,,First Base,3,9,117,Houston Astros,HOU
-649557,Aledmys Díaz,,,Shortstop,6,12,117,Houston Astros,HOU
-622766,Miguel Díaz,,,Pitcher,1,,117,Houston Astros,HOU
-673237,Yainer Diaz,,,Catcher,2,21,117,Houston Astros,HOU
-681869,Shawn Dubin,,,Pitcher,1,66,117,Houston Astros,HOU
-643289,Mauricio Dubón,,,Outfielder,7,14,117,Houston Astros,HOU
-657571,Caleb Ferguson,,,Pitcher,1,64,117,Houston Astros,HOU
-641585,J.P. France,,,Pitcher,1,68,117,Houston Astros,HOU
-592325,Ben Gamel,,,Outfielder,9,12,117,Houston Astros,HOU
-623352,Josh Hader,,,Pitcher,1,71,117,Houston Astros,HOU
-668874,Blair Henley,,,Pitcher,1,70,117,Houston Astros,HOU
-663321,Nick Hernandez,,,Pitcher,1,72,117,Houston Astros,HOU
-518792,Jason Heyward,,,Outfielder,9,22,117,Houston Astros,HOU
-669450,Cooper Hummel,,,Outfielder,7,1,117,Houston Astros,HOU
-664299,Cristian Javier,,,Pitcher,1,53,117,Houston Astros,HOU
-666197,Grae Kessinger,,,Third Base,5,11,117,Houston Astros,HOU
-579328,Yusei Kikuchi,,,Pitcher,1,16,117,Houston Astros,HOU
-687911,Bryan King,,,Pitcher,1,74,117,Houston Astros,HOU
-669270,Joel Kuhnel,,,Pitcher,1,72,117,Houston Astros,HOU
-694175,Pedro León,,,Outfielder,9,4,117,Houston Astros,HOU
-694388,Joey Loperfido,,,Outfielder,7,10,117,Houston Astros,HOU
-661527,Seth Martinez,,,Pitcher,1,61,117,Houston Astros,HOU
-676801,Chas McCormick,,,Outfielder,7,20,117,Houston Astros,HOU
-676694,Jake Meyers,,,Outfielder,8,6,117,Houston Astros,HOU
-606160,Rafael Montero,,,Pitcher,1,47,117,Houston Astros,HOU
-656786,Parker Mushinski,,,Pitcher,1,67,117,Houston Astros,HOU
-593576,Héctor Neris,,,Pitcher,1,50,117,Houston Astros,HOU
-672391,Kaleb Ort,,,Pitcher,1,63,117,Houston Astros,HOU
-665161,Jeremy Peña,,,Shortstop,6,3,117,Houston Astros,HOU
-519151,Ryan Pressly,,,Pitcher,1,55,117,Houston Astros,HOU
-663967,César Salazar,,,Catcher,2,18,117,Houston Astros,HOU
-605463,Tayler Scott,,,Pitcher,1,50,117,Houston Astros,HOU
-572138,Jon Singleton,,,First Base,3,28,117,Houston Astros,HOU
-666208,Alex Speas,,,Pitcher,1,64,117,Houston Astros,HOU
-593833,Wander Suero,,,Pitcher,1,48,117,Houston Astros,HOU
-663656,Kyle Tucker,,,Outfielder,9,30,117,Houston Astros,HOU
-664285,Framber Valdez,,,Pitcher,1,59,117,Houston Astros,HOU
-434378,Justin Verlander,,,Pitcher,1,35,117,Houston Astros,HOU
-694376,Shay Whitcomb,,,Shortstop,6,10,117,Houston Astros,HOU
-666215,Forrest Whitley,,,Pitcher,1,60,117,Houston Astros,HOU
-680769,CJ Alexander,,,Third Base,5,40,118,Kansas City Royals,KC
-656186,Dan Altavilla,,,Pitcher,1,54,118,Kansas City Royals,KC
-623433,Nick Anderson,,,Pitcher,1,63,118,Kansas City Royals,KC
-680118,Dairon Blanco,,,Outfielder,7,44,118,Kansas City Royals,KC
-680742,Jonathan Bowlan,,,Pitcher,1,62,118,Kansas City Royals,KC
-663460,Kris Bubic,,,Pitcher,1,50,118,Kansas City Royals,KC
-674444,Steven Cruz,,,Pitcher,1,64,118,Kansas City Royals,KC
-657557,Paul DeJong,,,Shortstop,6,15,118,Kansas City Royals,KC
-608648,Tyler Duffey,,,Pitcher,1,21,118,Kansas City Royals,KC
-668674,Lucas Erceg,,,Pitcher,1,60,118,Kansas City Royals,KC
-666023,Freddy Fermin,,,Catcher,2,34,118,Kansas City Royals,KC
-624428,Adam Frazier,,,Second Base,4,26,118,Kansas City Royals,KC
-672580,Maikel Garcia,,,Third Base,5,11,118,Kansas City Royals,KC
-694355,Tyler Gentry,,,Outfielder,9,27,118,Kansas City Royals,KC
-543257,Robbie Grossman,,,Outfielder,9,8,118,Kansas City Royals,KC
-493329,Yuli Gurriel,,,First Base,3,18,118,Kansas City Royals,KC
-641658,Garrett Hampson,,,Outfielder,8,2,118,Kansas City Royals,KC
-640451,Hunter Harvey,,,Pitcher,1,56,118,Kansas City Royals,KC
-672578,Carlos Hernández,,,Pitcher,1,43,118,Kansas City Royals,KC
-664728,Kyle Isbel,,,Outfielder,8,28,118,Kansas City Royals,KC
-694361,Will Klein,,,Pitcher,1,36,118,Kansas City Royals,KC
-679845,Nick Loftin,,,Second Base,4,12,118,Kansas City Royals,KC
-669674,Sam Long,,,Pitcher,1,73,118,Kansas City Royals,KC
-547179,Michael Lorenzen,,,Pitcher,1,24,118,Kansas City Royals,KC
-607625,Seth Lugo,,,Pitcher,1,67,118,Kansas City Royals,KC
-543475,Jordan Lyles,,,Pitcher,1,24,118,Kansas City Royals,KC
-663738,Daniel Lynch IV,,,Pitcher,1,41,118,Kansas City Royals,KC
-679525,Alec Marsh,,,Pitcher,1,48,118,Kansas City Royals,KC
-686681,Michael Massey,,,Second Base,4,19,118,Kansas City Royals,KC
-663704,James McArthur,,,Pitcher,1,66,118,Kansas City Royals,KC
-669004,MJ Melendez,,,Outfielder,7,1,118,Kansas City Royals,KC
-686469,Vinnie Pasquantino,,,First Base,3,9,118,Kansas City Royals,KC
-679156,Walter Pennington,,,Pitcher,1,65,118,Kansas City Royals,KC
-521692,Salvador Perez,,,Catcher,2,13,118,Kansas City Royals,KC
-502054,Tommy Pham,,,Outfielder,9,22,118,Kansas City Royals,KC
-668472,Nick Pratto,,,First Base,3,32,118,Kansas City Royals,KC
-666142,Cole Ragans,,,Pitcher,1,55,118,Kansas City Royals,KC
-592669,Hunter Renfroe,,,Outfielder,9,16,118,Kansas City Royals,KC
-669422,Matt Sauer,,,Pitcher,1,65,118,Kansas City Royals,KC
-670167,John Schreiber,,,Pitcher,1,46,118,Kansas City Royals,KC
-681882,Colin Selby,,,Pitcher,1,60,118,Kansas City Royals,KC
-663903,Brady Singer,,,Pitcher,1,51,118,Kansas City Royals,KC
-519293,Will Smith,,,Pitcher,1,31,118,Kansas City Royals,KC
-608717,Chris Stratton,,,Pitcher,1,35,118,Kansas City Royals,KC
-676369,Nelson Velázquez,,,Outfielder,9,17,118,Kansas City Royals,KC
-685107,Anthony Veneziano,,,Pitcher,1,69,118,Kansas City Royals,KC
-608379,Michael Wacha,,,Pitcher,1,52,118,Kansas City Royals,KC
-671221,Drew Waters,,,Outfielder,9,8,118,Kansas City Royals,KC
-677951,Bobby Witt Jr.,,,Shortstop,6,7,118,Kansas City Royals,KC
-672582,Angel Zerpa,,,Pitcher,1,61,118,Kansas City Royals,KC
-605113,Nick Ahmed,,,Shortstop,6,12,119,Los Angeles Dodgers,LAD
-607455,Anthony Banda,,,Pitcher,1,43,119,Los Angeles Dodgers,LAD
-605131,Austin Barnes,,,Catcher,2,15,119,Los Angeles Dodgers,LAD
-605141,Mookie Betts,,,Shortstop,6,50,119,Los Angeles Dodgers,LAD
-624415,Cavan Biggio,,,Second Base,4,6,119,Los Angeles Dodgers,LAD
-518489,Ryan Brasier,,,Pitcher,1,57,119,Los Angeles Dodgers,LAD
-641401,Connor Brogdon,,,Pitcher,1,75,119,Los Angeles Dodgers,LAD
-621111,Walker Buehler,,,Pitcher,1,21,119,Los Angeles Dodgers,LAD
-676508,Ben Casparius,,,Pitcher,1,78,119,Los Angeles Dodgers,LAD
-622503,Nabil Crismatt,,,Pitcher,1,70,119,Los Angeles Dodgers,LAD
-669242,Tommy Edman,,,Outfielder,8,25,119,Los Angeles Dodgers,LAD
-676439,Hunter Feduccia,,,Catcher,2,67,119,Los Angeles Dodgers,LAD
-656420,J.P. Feyereisen,,,Pitcher,1,45,119,Los Angeles Dodgers,LAD
-656427,Jack Flaherty,,,Pitcher,1,0,119,Los Angeles Dodgers,LAD
-518692,Freddie Freeman,,,First Base,3,5,119,Los Angeles Dodgers,LAD
-607192,Tyler Glasnow,,,Pitcher,1,31,119,Los Angeles Dodgers,LAD
-660813,Brusdar Graterol,,,Pitcher,1,48,119,Los Angeles Dodgers,LAD
-675627,Michael Grove,,,Pitcher,1,29,119,Los Angeles Dodgers,LAD
-683618,Edgardo Henriquez,,,Pitcher,1,60,119,Los Angeles Dodgers,LAD
-622694,Elieser Hernández,,,Pitcher,1,52,119,Los Angeles Dodgers,LAD
-571771,Enrique Hernández,,,Third Base,5,8,119,Los Angeles Dodgers,LAD
-606192,Teoscar Hernández,,,Outfielder,7,37,119,Los Angeles Dodgers,LAD
-518792,Jason Heyward,,,Outfielder,9,23,119,Los Angeles Dodgers,LAD
-641703,Brent Honeywell,,,Pitcher,1,40,119,Los Angeles Dodgers,LAD
-543339,Daniel Hudson,,,Pitcher,1,41,119,Los Angeles Dodgers,LAD
-669165,Kyle Hurt,,,Pitcher,1,63,119,Los Angeles Dodgers,LAD
-523260,Joe Kelly,,,Pitcher,1,99,119,Los Angeles Dodgers,LAD
-477132,Clayton Kershaw,,,Pitcher,1,22,119,Los Angeles Dodgers,LAD
-595281,Kevin Kiermaier,,,Outfielder,8,93,119,Los Angeles Dodgers,LAD
-689017,Landon Knack,,,Pitcher,1,96,119,Los Angeles Dodgers,LAD
-656629,Michael Kopech,,,Pitcher,1,45,119,Los Angeles Dodgers,LAD
-659275,Dinelson Lamet,,,Pitcher,1,94,119,Los Angeles Dodgers,LAD
-656657,Zach Logue,,,Pitcher,1,62,119,Los Angeles Dodgers,LAD
-666158,Gavin Lux,,,Second Base,4,9,119,Los Angeles Dodgers,LAD
-676272,Bobby Miller,,,Pitcher,1,28,119,Los Angeles Dodgers,LAD
-571970,Max Muncy,,,Third Base,5,13,119,Los Angeles Dodgers,LAD
-660271,Shohei Ohtani,,,Two-Way Player,Y,17,119,Los Angeles Dodgers,LAD
-681546,James Outman,,,Outfielder,8,33,119,Los Angeles Dodgers,LAD
-681624,Andy Pages,,,Outfielder,8,44,119,Los Angeles Dodgers,LAD
-572020,James Paxton,,,Pitcher,1,65,119,Los Angeles Dodgers,LAD
-656848,Michael Petersen,,,Pitcher,1,90,119,Los Angeles Dodgers,LAD
-623465,Evan Phillips,,,Pitcher,1,59,119,Los Angeles Dodgers,LAD
-598286,Nick Ramirez,,,Pitcher,1,64,119,Los Angeles Dodgers,LAD
-670990,Yohan Ramírez,,,Pitcher,1,46,119,Los Angeles Dodgers,LAD
-500743,Miguel Rojas,,,Shortstop,6,11,119,Los Angeles Dodgers,LAD
-642708,Amed Rosario,,,Second Base,4,27,119,Los Angeles Dodgers,LAD
-689981,River Ryan,,,Pitcher,1,77,119,Los Angeles Dodgers,LAD
-674285,Eduardo Salazar,,,Pitcher,1,60,119,Los Angeles Dodgers,LAD
-669257,Will Smith,,,Catcher,2,16,119,Los Angeles Dodgers,LAD
-694813,Gavin Stone,,,Pitcher,1,35,119,Los Angeles Dodgers,LAD
-621035,Chris Taylor,,,Outfielder,7,3,119,Los Angeles Dodgers,LAD
-666211,Taylor Trammell,,,Outfielder,7,6,119,Los Angeles Dodgers,LAD
-595014,Blake Treinen,,,Pitcher,1,49,119,Los Angeles Dodgers,LAD
-676568,Ricky Vanasco,,,Pitcher,1,61,119,Los Angeles Dodgers,LAD
-678246,Miguel Vargas,,,Outfielder,7,27,119,Los Angeles Dodgers,LAD
-681402,Gus Varland,,,Pitcher,1,58,119,Los Angeles Dodgers,LAD
-681911,Alex Vesia,,,Pitcher,1,51,119,Los Angeles Dodgers,LAD
-680736,Justin Wrobleski,,,Pitcher,1,70,119,Los Angeles Dodgers,LAD
-808967,Yoshinobu Yamamoto,,,Pitcher,1,18,119,Los Angeles Dodgers,LAD
-642232,Ryan Yarbrough,,,Pitcher,1,56,119,Los Angeles Dodgers,LAD
 682928,CJ Abrams,,,Shortstop,6,5,120,Washington Nationals,WSH
 656180,Riley Adams,,,Catcher,2,15,120,Washington Nationals,WSH
 672851,Joan Adon,,,Pitcher,1,60,120,Washington Nationals,WSH
@@ -1648,3 +1543,108 @@ player_id,full_name,first_name,last_name,position,position_code,jersey_number,te
 608385,Jesse Winker,,,Outfielder,7,3,121,New York Mets,NYM
 622065,Alex Young,,,Pitcher,1,46,121,New York Mets,NYM
 664849,Danny Young,,,Pitcher,1,81,121,New York Mets,NYM
+678225,Ji Hwan Bae,,,Outfielder,8,3,134,Pittsburgh Pirates,PIT
+663698,Joey Bart,,,Catcher,2,14,134,Pittsburgh Pirates,PIT
+670280,David Bednar,,,Pitcher,1,51,134,Pittsburgh Pirates,PIT
+656222,Jalen Beeks,,,Pitcher,1,68,134,Pittsburgh Pirates,PIT
+621366,Ryan Borucki,,,Pitcher,1,43,134,Pittsburgh Pirates,PIT
+677865,Justin Bruihl,,,Pitcher,1,56,134,Pittsburgh Pirates,PIT
+681347,Mike Burrows,,,Pitcher,1,53,134,Pittsburgh Pirates,PIT
+547973,Aroldis Chapman,,,Pitcher,1,45,134,Pittsburgh Pirates,PIT
+672710,Roansy Contreras,,,Pitcher,1,59,134,Pittsburgh Pirates,PIT
+695257,Billy Cook,,,First Base,3,25,134,Pittsburgh Pirates,PIT
+665833,Oneil Cruz,,,Outfield,O,15,134,Pittsburgh Pirates,PIT
+680779,Henry Davis,,,Catcher,2,32,134,Pittsburgh Pirates,PIT
+650559,Bryan De La Cruz,,,Outfielder,7,41,134,Pittsburgh Pirates,PIT
+641511,Jason Delay,,,Catcher,2,55,134,Pittsburgh Pirates,PIT
+663559,Bailey Falter,,,Pitcher,1,6,134,Pittsburgh Pirates,PIT
+621399,Brady Feigl,,,Pitcher,1,52,134,Pittsburgh Pirates,PIT
+676596,Josh Fleming,,,Pitcher,1,28,134,Pittsburgh Pirates,PIT
+593334,Domingo Germán,,,Pitcher,1,0,134,Pittsburgh Pirates,PIT
+594835,Marco Gonzales,,,Pitcher,1,27,134,Pittsburgh Pirates,PIT
+693304,Nick Gonzales,,,Second Base,4,39,134,Pittsburgh Pirates,PIT
+518735,Yasmani Grandal,,,Catcher,2,6,134,Pittsburgh Pirates,PIT
+663647,Ke'Bryan Hayes,,,Third Base,5,13,134,Pittsburgh Pirates,PIT
+621294,Ben Heller,,,Pitcher,1,61,134,Pittsburgh Pirates,PIT
+669796,Jose E. Hernandez,,,Pitcher,1,61,134,Pittsburgh Pirates,PIT
+670059,Colin Holderman,,,Pitcher,1,35,134,Pittsburgh Pirates,PIT
+641703,Brent Honeywell,,,Pitcher,1,34,134,Pittsburgh Pirates,PIT
+641726,Daulton Jefferies,,,Pitcher,1,59,134,Pittsburgh Pirates,PIT
+656582,Connor Joe,,,First Base,3,2,134,Pittsburgh Pirates,PIT
+683003,Jared Jones,,,Pitcher,1,37,134,Pittsburgh Pirates,PIT
+656605,Mitch Keller,,,Pitcher,1,23,134,Pittsburgh Pirates,PIT
+643396,Isiah Kiner-Falefa,,,Second Base,4,7,134,Pittsburgh Pirates,PIT
+667428,Grant Koch,,,Catcher,2,56,134,Pittsburgh Pirates,PIT
+676755,Isaac Mattson,,,Pitcher,1,64,134,Pittsburgh Pirates,PIT
+457705,Andrew McCutchen,,,Outfielder,9,22,134,Pittsburgh Pirates,PIT
+641856,Billy McKinney,,,Outfielder,7,29,134,Pittsburgh Pirates,PIT
+669387,Carmen Mlodzinski,,,Pitcher,1,50,134,Pittsburgh Pirates,PIT
+693312,Kyle Nicolas,,,Pitcher,1,66,134,Pittsburgh Pirates,PIT
+658668,Edward Olivares,,,Outfielder,9,38,134,Pittsburgh Pirates,PIT
+682847,Luis L. Ortiz,,,Pitcher,1,48,134,Pittsburgh Pirates,PIT
+641943,Joshua Palacios,,,Outfielder,9,77,134,Pittsburgh Pirates,PIT
+678894,Liover Peguero,,,Shortstop,6,31,134,Pittsburgh Pirates,PIT
+527048,Martín Pérez,,,Pitcher,1,54,134,Pittsburgh Pirates,PIT
+682990,Quinn Priester,,,Pitcher,1,46,134,Pittsburgh Pirates,PIT
+668804,Bryan Reynolds,,,Outfielder,7,10,134,Pittsburgh Pirates,PIT
+656924,Ryder Ryan,,,Pitcher,1,72,134,Pittsburgh Pirates,PIT
+642701,Dennis Santana,,,Pitcher,1,60,134,Pittsburgh Pirates,PIT
+694973,Paul Skenes,,,Pitcher,1,30,134,Pittsburgh Pirates,PIT
+676702,Hunter Stratton,,,Pitcher,1,63,134,Pittsburgh Pirates,PIT
+669261,Jack Suwinski,,,Outfielder,8,65,134,Pittsburgh Pirates,PIT
+572191,Michael A. Taylor,,,Outfielder,8,18,134,Pittsburgh Pirates,PIT
+642133,Rowdy Tellez,,,First Base,3,44,134,Pittsburgh Pirates,PIT
+669707,Jared Triolo,,,Third Base,5,19,134,Pittsburgh Pirates,PIT
+666214,Joey Wentz,,,Pitcher,1,34,134,Pittsburgh Pirates,PIT
+675961,Alika Williams,,,Second Base,4,25,134,Pittsburgh Pirates,PIT
+663765,Jake Woodford,,,Pitcher,1,46,134,Pittsburgh Pirates,PIT
+694377,Nick Yorke,,,Second Base,4,38,134,Pittsburgh Pirates,PIT
+592094,Jason Adam,,,Pitcher,1,40,135,San Diego Padres,SD
+605113,Nick Ahmed,,,Shortstop,6,16,135,San Diego Padres,SD
+650333,Luis Arraez,,,First Base,3,4,135,San Diego Padres,SD
+658648,Pedro Avila,,,Pitcher,1,60,135,San Diego Padres,SD
+640492,José Azocar,,,Outfielder,7,28,135,San Diego Padres,SD
+676946,Matthew Batten,,,Second Base,4,17,135,San Diego Padres,SD
+593428,Xander Bogaerts,,,Second Base,4,2,135,San Diego Padres,SD
+666745,Jhony Brito,,,Pitcher,1,76,135,San Diego Padres,SD
+669134,Luis Campusano,,,Catcher,2,12,135,San Diego Padres,SD
+656302,Dylan Cease,,,Pitcher,1,84,135,San Diego Padres,SD
+676680,Tom Cosgrove,,,Pitcher,1,59,135,San Diego Padres,SD
+630105,Jake Cronenworth,,,First Base,3,9,135,San Diego Padres,SD
+506433,Yu Darvish,,,Pitcher,1,11,135,San Diego Padres,SD
+656354,Austin Davis,,,Pitcher,1,,135,San Diego Padres,SD
+660853,Enyel De Los Santos,,,Pitcher,1,62,135,San Diego Padres,SD
+553869,Elias Díaz,,,Catcher,2,15,135,San Diego Padres,SD
+605218,Carl Edwards Jr.,,,Pitcher,1,,135,San Diego Padres,SD
+669093,Jeremiah Estrada,,,Pitcher,1,56,135,San Diego Padres,SD
+670810,Logan Gillaspie,,,Pitcher,1,71,135,San Diego Padres,SD
+543309,Kyle Higashioka,,,Catcher,2,20,135,San Diego Padres,SD
+663773,Bryan Hoeing,,,Pitcher,1,78,135,San Diego Padres,SD
+689690,Alek Jacob,,,Pitcher,1,37,135,San Diego Padres,SD
+669369,Bryce Johnson,,,Outfielder,9,27,135,San Diego Padres,SD
+673490,Ha-Seong Kim,,,Shortstop,6,7,135,San Diego Padres,SD
+650633,Michael King,,,Pitcher,1,34,135,San Diego Padres,SD
+663568,Stephen Kolek,,,Pitcher,1,32,135,San Diego Padres,SD
+663604,Brandon Lockridge,,,Outfielder,9,28,135,San Diego Padres,SD
+592518,Manny Machado,,,Third Base,5,13,135,San Diego Padres,SD
+673513,Yuki Matsui,,,Pitcher,1,1,135,San Diego Padres,SD
+800049,Adam Mazur,,,Pitcher,1,36,135,San Diego Padres,SD
+669200,Mason McCoy,,,Shortstop,6,18,135,San Diego Padres,SD
+701538,Jackson Merrill,,,Outfielder,8,3,135,San Diego Padres,SD
+670970,Adrian Morejon,,,Pitcher,1,50,135,San Diego Padres,SD
+605397,Joe Musgrove,,,Pitcher,1,44,135,San Diego Padres,SD
+688363,Graham Pauley,,,Third Base,5,22,135,San Diego Padres,SD
+444482,David Peralta,,,Outfielder,9,24,135,San Diego Padres,SD
+593974,Wandy Peralta,,,Pitcher,1,58,135,San Diego Padres,SD
+527048,Martín Pérez,,,Pitcher,1,54,135,San Diego Padres,SD
+595777,Jurickson Profar,,,Outfielder,7,10,135,San Diego Padres,SD
+669308,Sean Reynolds,,,Pitcher,1,25,135,San Diego Padres,SD
+666703,Eguy Rosario,,,Third Base,5,5,135,San Diego Padres,SD
+656945,Tanner Scott,,,Pitcher,1,66,135,San Diego Padres,SD
+456781,Donovan Solano,,,Third Base,5,39,135,San Diego Padres,SD
+663158,Robert Suarez,,,Pitcher,1,75,135,San Diego Padres,SD
+664954,Brett Sullivan,,,Catcher,2,29,135,San Diego Padres,SD
+665487,Fernando Tatis Jr.,,,Outfielder,9,23,135,San Diego Padres,SD
+681190,Randy Vásquez,,,Pitcher,1,98,135,San Diego Padres,SD
+642180,Tyler Wade,,,Third Base,5,14,135,San Diego Padres,SD
+663362,Matt Waldron,,,Pitcher,1,61,135,San Diego Padres,SD
