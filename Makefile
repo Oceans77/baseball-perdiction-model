@@ -18,15 +18,24 @@ help:
 	@echo "  test-data   - Collect small sample of data for testing"
 	@echo ""
 	@echo "📊 Data Commands:"
-	@echo "  data        - Collect full dataset"
+	@echo "  data        - Collect full dataset (current season)"
+	@echo "  data-2025   - Collect data for 2025 season"
+	@echo "  data-2024   - Collect data for 2024 season"
 	@echo "  score       - Score players and teams"
 	@echo "  pipeline    - Run complete analysis pipeline"
+	@echo "  pipeline-2025 - Complete pipeline for 2025"
+	@echo "  list-seasons - Show available seasons"
 	@echo ""
 	@echo "🛠️  Development Commands:"
 	@echo "  format      - Format code with black"
 	@echo "  lint        - Run code linting with flake8"
 	@echo "  clean       - Clean generated files"
 	@echo "  clean-all   - Clean everything including data"
+	@echo ""
+	@echo "🔧 Troubleshooting Commands:"
+	@echo "  fix-teams   - Fix missing teams (comprehensive)"
+	@echo "  diagnose    - Diagnose data collection issues"
+	@echo "  fix-all     - Complete fix for all data issues"
 	@echo ""
 	@echo "📈 Analysis Commands:"
 	@echo "  analyze     - Analyze data quality only"
@@ -187,10 +196,11 @@ clean-all: clean clean-data
 
 # Convenience targets
 setup: install test-data
-	@echo "🎉 Project setup complete! Ready to use."
+	@echo "🎉 Basic project setup complete! Ready to use."
 	@echo ""
 	@echo "Next steps:"
 	@echo "  make pipeline    - Run complete analysis"
+	@echo "  make fix-all     - Ensure all 30 teams (recommended)"
 	@echo "  make score       - Score existing data"
 	@echo "  make predict     - Generate predictions"
 
@@ -231,11 +241,72 @@ status:
 	fi
 
 # Quick data collection for different seasons
+data-2025:
+	python scripts/collect_data.py --season 2025
+
 data-2024:
 	python scripts/collect_data.py --season 2024
 
 data-2023:
 	python scripts/collect_data.py --season 2023
+
+# Season-specific diagnostics and fixes
+diagnose-2025:
+	python scripts/diagnose_teams.py --season 2025
+
+fix-2025:
+	python scripts/diagnose_teams.py --season 2025 --fix
+
+diagnose-current:
+	python scripts/diagnose_teams.py
+
+fix-current:
+	python scripts/diagnose_teams.py --fix
+
+# Complete pipeline for specific seasons
+pipeline-2025: check-env
+	@echo "🚀 Running complete analysis pipeline for 2025..."
+	python scripts/diagnose_teams.py --season 2025 --fix
+	python scripts/score_players.py --season 2025
+	python scripts/score_teams.py --season 2025
+	@echo "🎉 2025 Pipeline complete!"
+
+pipeline-current: check-env
+	@echo "🚀 Running complete analysis pipeline for current season..."
+	python scripts/diagnose_teams.py --fix
+	python scripts/score_players.py
+	python scripts/score_teams.py
+	@echo "🎉 Current season pipeline complete!"
+
+# List available seasons
+list-seasons:
+	python scripts/diagnose_teams.py --list-seasons
+
+# Troubleshooting and fixing commands
+diagnose:
+	@echo "🔍 Diagnosing data collection issues..."
+	python scripts/comprehensive_team_fix.py --diagnose-only
+
+fix-teams:
+	@echo "🔧 Fixing missing teams (comprehensive approach)..."
+	python scripts/comprehensive_team_fix.py --force-all
+
+fix-all: check-env
+	@echo "🚀 Running comprehensive fix for all data issues..."
+	python scripts/comprehensive_team_fix.py --force-all
+	@echo "🎉 Comprehensive fix complete!"
+
+fix-teams-2024:
+	python scripts/comprehensive_team_fix.py --season 2024 --force-all
+
+fix-teams-2025:
+	python scripts/comprehensive_team_fix.py --season 2025 --force-all
+
+# Enhanced setup with comprehensive fix
+setup-robust: install
+	@echo "🚀 Setting up with comprehensive data collection..."
+	python scripts/comprehensive_team_fix.py --force-all
+	@echo "🎉 Robust setup complete! All 30 teams should be available."
 
 # Help for specific commands
 help-data:
