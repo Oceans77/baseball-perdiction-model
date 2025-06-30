@@ -1,4 +1,11 @@
-# ⚾ Baseball Prediction Model
+#### Team Scoring Flags
+| Flag | Description | Default | Example |
+|------|-------------|---------|---------|
+| `--season` | Season year to score | 2024 | `--season 2023` |
+| `--input-dir` | Directory with scored players | data/processed | `--input-dir results` |
+| `--output-dir` | Directory to save team scores | data/processed | `--output-dir final_results` |
+| `--predictions` | Number of sample predictions | 5 | `--predictions 10` |
+| `--show-scores` | Show detailed breakdowns of all score components |# ⚾ Baseball Prediction Model
 
 A comprehensive machine learning system that predicts MLB game outcomes based on advanced player statistics and team performance metrics.
 
@@ -10,6 +17,8 @@ A comprehensive machine learning system that predicts MLB game outcomes based on
 - **🔮 Game Predictions**: Win probability calculations for any team matchup
 - **⚔️ Matchup Analyzer**: Detailed head-to-head comparison tool for specific games
 - **📈 Rankings**: Complete team rankings with detailed performance breakdowns
+- **🔧 Comprehensive Data Fix**: Robust system to ensure all 30 MLB teams are collected and scored
+- **📊 Multi-Season Support**: Handle data from multiple seasons (2023, 2024, 2025+)
 - **⚡ Real-time Analysis**: Fresh data collection and scoring for current season
 
 ## 🚀 Quick Start
@@ -67,6 +76,18 @@ make setup
 python scripts/collect_data.py --max-players 50  # Start small
 python scripts/score_players.py
 python scripts/score_teams.py
+
+# Option 3: Comprehensive fix (ensures all 30 teams)
+python scripts/comprehensive_team_fix.py --season 2024 --force-all
+```
+
+### 7. Troubleshooting
+```bash
+# If you're missing teams or having data issues
+python scripts/comprehensive_team_fix.py --season 2024 --diagnose-only
+
+# Fix any data collection problems
+python scripts/comprehensive_team_fix.py --season 2024 --force-all
 ```
 
 ## 📋 Usage Guide
@@ -124,17 +145,21 @@ python scripts/score_players.py --season 2023
 | `--data-dir` | Directory containing raw data | data | `--data-dir custom_data` |
 | `--output-dir` | Directory to save scored data | data/processed | `--output-dir results` |
 | `--analyze-only` | Only analyze data quality, don't score | False | `--analyze-only` |
+| `--show-scores` | Show detailed breakdowns of all score components | False | `--show-scores` |
 
 #### Examples
 ```bash
 # Analyze data quality before scoring
 python scripts/score_players.py --analyze-only
 
-# Score players and save to custom directory
-python scripts/score_players.py --output-dir my_results
+# Score players with detailed component breakdowns
+python scripts/score_players.py --show-scores
 
-# Score players from 2023 season
-python scripts/score_players.py --season 2023 --data-dir historical_data
+# Score players and save to custom directory with full details
+python scripts/score_players.py --output-dir my_results --show-scores
+
+# Score players from 2023 season with detailed analysis
+python scripts/score_players.py --season 2023 --show-scores --data-dir historical_data
 ```
 
 ### Team Scoring
@@ -155,17 +180,52 @@ python scripts/score_teams.py --predictions 10
 | `--input-dir` | Directory with scored players | data/processed | `--input-dir results` |
 | `--output-dir` | Directory to save team scores | data/processed | `--output-dir final_results` |
 | `--predictions` | Number of sample predictions | 5 | `--predictions 10` |
+| `--show-scores` | Show detailed breakdowns of all score components | False | `--show-scores` |
 
 #### Examples
 ```bash
 # Basic team scoring
 python scripts/score_teams.py
 
-# Generate many sample predictions
-python scripts/score_teams.py --predictions 15
+# Generate many sample predictions with detailed scores
+python scripts/score_teams.py --predictions 15 --show-scores
 
 # Process data from custom directories
-python scripts/score_teams.py --input-dir my_data --output-dir my_results
+python scripts/score_teams.py --input-dir my_data --output-dir my_results --show-scores
+```
+
+### Comprehensive Data Fix
+
+#### When to Use
+Use this when you're missing teams or having data collection issues.
+
+#### Basic Fix
+```bash
+# Diagnose data collection issues
+python scripts/comprehensive_team_fix.py --season 2024 --diagnose-only
+
+# Fix missing teams (ensures all 30 MLB teams)
+python scripts/comprehensive_team_fix.py --season 2024 --force-all
+```
+
+#### Comprehensive Fix Flags
+| Flag | Description | Default | Example |
+|------|-------------|---------|---------|
+| `--season` | Season year to fix | 2024 | `--season 2023` |
+| `--diagnose-only` | Only run diagnosis, don't fix | False | `--diagnose-only` |
+| `--force-all` | Force collection of all 30 teams | False | `--force-all` |
+| `--max-players` | Max players per team to collect | 15 | `--max-players 25` |
+
+#### Examples
+```bash
+# Check what's wrong with data collection
+python scripts/comprehensive_team_fix.py --season 2024 --diagnose-only
+
+# Fix all data issues and ensure 30 teams
+python scripts/comprehensive_team_fix.py --season 2024 --force-all
+
+# Collect more player data per team
+python scripts/comprehensive_team_fix.py --season 2024 --force-all --max-players 25
 ```
 
 ### Matchup Analysis
@@ -252,11 +312,13 @@ baseball-prediction-model/
 │   ├── data_collection/    # Data gathering modules
 │   └── features/           # Scoring algorithms
 ├── 🤖 scripts/
-│   ├── collect_data.py     # Data collection automation
-│   ├── score_players.py    # Player scoring automation
-│   ├── score_teams.py      # Team scoring automation
-│   ├── analyze_matchup.py  # Team matchup analyzer
-│   └── quick_test.py       # System testing
+│   ├── collect_data.py         # Data collection automation
+│   ├── score_players.py        # Player scoring automation
+│   ├── score_teams.py          # Team scoring automation
+│   ├── analyze_matchup.py      # Team matchup analyzer
+│   ├── comprehensive_team_fix.py # Comprehensive data fix tool
+│   ├── diagnose_teams.py       # Team data diagnostics
+│   └── quick_test.py           # System testing
 └── 📓 notebooks/           # Analysis notebooks
 ```
 
@@ -364,6 +426,15 @@ api_settings:
 
 ### Common Issues
 
+**Only 8 Teams Showing in Matchup Analysis**
+```bash
+# This is the most common issue - use the comprehensive fix
+python scripts/comprehensive_team_fix.py --season 2024 --force-all
+
+# Then verify all teams are available
+python scripts/analyze_matchup.py --list-teams
+```
+
 **API Connection Failed**
 ```bash
 # Test your internet connection and try again
@@ -373,7 +444,20 @@ python scripts/quick_test.py
 **Missing Data Files**
 ```bash
 # Make sure data collection completed successfully
-python scripts/collect_data.py --teams-only
+python scripts/comprehensive_team_fix.py --season 2024 --diagnose-only
+```
+
+**Data Type Errors (String/Float Issues)**
+```bash
+# The comprehensive fix handles data cleaning automatically
+python scripts/comprehensive_team_fix.py --season 2024 --force-all
+```
+
+**2025 Season Data Not Available**
+```bash
+# Use the most recent complete season
+python scripts/comprehensive_team_fix.py --season 2024 --force-all
+python scripts/analyze_matchup.py "Team A" "Team B" --season 2024
 ```
 
 **Import Errors**
@@ -395,8 +479,9 @@ mkdir -p data/{raw,processed}
 
 1. **Check logs** - Scripts provide detailed logging of what's happening
 2. **Start small** - Use `--max-players 10` to test with limited data
-3. **Test components** - Use `--analyze-only` or `--teams-only` flags
-4. **Clean slate** - Use `make clean` to remove generated files and start over
+3. **Test components** - Use `--diagnose-only` or `--teams-only` flags
+4. **Use comprehensive fix** - Run `python scripts/comprehensive_team_fix.py --force-all` for most issues
+5. **Clean slate** - Use `make clean` to remove generated files and start over
 
 ## 📈 Understanding the Output
 
