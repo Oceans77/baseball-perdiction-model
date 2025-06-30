@@ -8,6 +8,7 @@ A comprehensive machine learning system that predicts MLB game outcomes based on
 - **🎯 Player Scoring**: Advanced algorithm that converts baseball statistics into comparable 0-100 scores
 - **🏟️ Team Scoring**: Intelligent team strength calculation considering position importance and roster depth
 - **🔮 Game Predictions**: Win probability calculations for any team matchup
+- **⚔️ Matchup Analyzer**: Detailed head-to-head comparison tool for specific games
 - **📈 Rankings**: Complete team rankings with detailed performance breakdowns
 - **⚡ Real-time Analysis**: Fresh data collection and scoring for current season
 
@@ -20,7 +21,7 @@ A comprehensive machine learning system that predicts MLB game outcomes based on
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Oceans77/baseball-perdiction-model.git
+git clone https://github.com/yourusername/baseball-prediction-model.git
 cd baseball-prediction-model
 ```
 
@@ -167,6 +168,44 @@ python scripts/score_teams.py --predictions 15
 python scripts/score_teams.py --input-dir my_data --output-dir my_results
 ```
 
+### Matchup Analysis
+
+#### Basic Matchup Analysis
+```bash
+# See all available teams
+python scripts/analyze_matchup.py --list-teams
+
+# Analyze specific matchup
+python scripts/analyze_matchup.py "Team A" "Team B"
+
+# Detailed analysis with roster breakdowns
+python scripts/analyze_matchup.py "Team A" "Team B" --detailed
+```
+
+#### Matchup Analysis Flags
+| Flag | Description | Default | Example |
+|------|-------------|---------|---------|
+| `--season` | Season year to analyze | 2024 | `--season 2023` |
+| `--detailed` | Show detailed roster analysis | False | `--detailed` |
+| `--list-teams` | List all available teams | False | `--list-teams` |
+| `--data-dir` | Directory with processed data | data/processed | `--data-dir results` |
+| `--save` | Save analysis to JSON file | None | `--save matchup.json` |
+
+#### Examples
+```bash
+# Quick matchup analysis
+python scripts/analyze_matchup.py "Dodgers" "Yankees"
+
+# Detailed analysis with rosters
+python scripts/analyze_matchup.py "Red Sox" "Astros" --detailed
+
+# Save detailed analysis to file
+python scripts/analyze_matchup.py "Giants" "Padres" --detailed --save giants_padres.json
+
+# Historical matchup analysis
+python scripts/analyze_matchup.py "Cubs" "Cardinals" --season 2023 --detailed
+```
+
 ## 🛠️ Makefile Commands
 
 For convenience, use these make commands:
@@ -216,6 +255,7 @@ baseball-prediction-model/
 │   ├── collect_data.py     # Data collection automation
 │   ├── score_players.py    # Player scoring automation
 │   ├── score_teams.py      # Team scoring automation
+│   ├── analyze_matchup.py  # Team matchup analyzer
 │   └── quick_test.py       # System testing
 └── 📓 notebooks/           # Analysis notebooks
 ```
@@ -235,7 +275,7 @@ After running the complete pipeline, you'll have:
 - `data/processed/team_scores_2024.csv` - Team rankings and scores
 - `data/processed/team_scores_detailed_2024.json` - Detailed team analysis
 
-## 🎯 Example Workflow
+## 🎯 Complete Example Workflow
 
 Here's a complete example workflow:
 
@@ -258,9 +298,48 @@ python scripts/score_players.py
 # 5. Score teams and get predictions
 python scripts/score_teams.py --predictions 8
 
-# 6. Check results
+# 6. Check results and analyze matchups
 ls data/processed/
 head data/processed/team_scores_2024.csv
+
+# 7. Analyze specific upcoming games
+python scripts/analyze_matchup.py "Dodgers" "Yankees" --detailed
+```
+
+## 🎮 **Matchup Analysis Examples**
+
+### Quick Game Analysis
+```bash
+# Tonight's game analysis
+python scripts/analyze_matchup.py "Los Angeles Dodgers" "New York Yankees"
+
+# Output preview:
+# 🔮 PREDICTION: Los Angeles Dodgers (62.3% win probability)
+# 📊 KEY ADVANTAGES: Dodgers +7.7 pitching, Yankees +4.7 batting
+# 🏟️ GAME FACTORS: High competitiveness, pitching duel expected
+```
+
+### Detailed Matchup Report
+```bash
+# In-depth analysis with rosters
+python scripts/analyze_matchup.py "Boston Red Sox" "Houston Astros" --detailed
+
+# Includes:
+# - Win probability and confidence level
+# - Component breakdowns (batting, pitching, fielding)
+# - Top 5 players from each team
+# - Position-by-position matchups
+# - Team strengths and weaknesses
+# - Key game factors
+```
+
+### Using Makefile
+```bash
+# Interactive matchup analyzer
+make matchup
+
+# Direct team comparison
+make matchup-specific TEAM1="Giants" TEAM2="Padres"
 ```
 
 ## 🔧 Configuration
