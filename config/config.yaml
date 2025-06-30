@@ -1,0 +1,44 @@
+# config/config.yaml
+data_collection:
+  season: 2024
+  max_players_per_run: 100  # Start small to avoid rate limits
+  delay_between_requests: 0.5  # seconds
+  data_directory: "data/raw"
+  
+api_settings:
+  mlb_stats_api:
+    base_url: "https://statsapi.mlb.com/api/v1"
+    timeout: 30
+    max_retries: 3
+
+stats_categories:
+  batting:
+    - avg
+    - obp
+    - slg
+    - ops
+    - homeRuns
+    - rbi
+    - runs
+    - hits
+    - atBats
+    - stolenBases
+    - strikeOuts
+  
+  pitching:
+    - era
+    - whip
+    - wins
+    - losses
+    - saves
+    - inningsPitched
+    - strikeOuts
+    - walks
+    - hits
+    - homeRuns
+  
+  fielding:
+    - errors
+    - fieldingPercentage
+    - assists
+    - putOuts

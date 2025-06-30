@@ -1,0 +1,115 @@
+[
+  {
+    "team_name": "Oakland Athletics",
+    "overall_score": 34.01,
+    "raw_score": 46.27,
+    "batting_score": 39.93,
+    "pitching_score": 24.87,
+    "fielding_score": 50.0,
+    "roster_size": 10,
+    "completeness_penalty": 0.265,
+    "position_breakdown": {
+      "Pitcher": {
+        "score": 49.798,
+        "weight": 0.35,
+        "player_count": 6,
+        "contribution": 17.429299999999998
+      },
+      "Catcher": {
+        "score": 0.0,
+        "weight": 0.08,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "First Baseman": {
+        "score": 0.0,
+        "weight": 0.07,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Second Baseman": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Third Baseman": {
+        "score": 0.0,
+        "weight": 0.07,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Shortstop": {
+        "score": 28.128,
+        "weight": 0.08,
+        "player_count": 1,
+        "contribution": 2.2502400000000002
+      },
+      "Left Fielder": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Center Fielder": {
+        "score": 0.0,
+        "weight": 0.08,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Right Fielder": {
+        "score": 0.0,
+        "weight": 0.06,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Designated Hitter": {
+        "score": 0.0,
+        "weight": 0.05,
+        "player_count": 0,
+        "contribution": 0.0,
+        "missing": true
+      },
+      "Outfielder": {
+        "score": 49.846999999999994,
+        "weight": 0.06,
+        "player_count": 2,
+        "contribution": 2.9908199999999994
+      }
+    },
+    "top_players": [
+      {
+        "full_name": "Osvaldo Bido",
+        "position": "Pitcher",
+        "overall_score": 53.46
+      },
+      {
+        "full_name": "JJ Bleday",
+        "position": "Outfielder",
+        "overall_score": 51.71
+      },
+      {
+        "full_name": "Scott Alexander",
+        "position": "Pitcher",
+        "overall_score": 51.27
+      },
+      {
+        "full_name": "Miguel Andujar",
+        "position": "Outfielder",
+        "overall_score": 45.5
+      },
+      {
+        "full_name": "Paul Blackburn",
+        "position": "Pitcher",
+        "overall_score": 37.34
+      }
+    ]
+  }
+]
