@@ -20,7 +20,7 @@ A comprehensive machine learning system that predicts MLB game outcomes based on
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/baseball-prediction-model.git
+git clone https://github.com/Oceans77/baseball-perdiction-model.git
 cd baseball-prediction-model
 ```
 
