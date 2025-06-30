@@ -90,7 +90,7 @@ data-stats-only: check-env
 	@echo "📈 Collecting player stats only..."
 	python scripts/collect_data.py --stats-only
 
-# Analysis
+# Analysis Commands
 analyze: check-env
 	@echo "🔍 Analyzing data quality..."
 	python scripts/score_players.py --analyze-only
@@ -105,6 +105,21 @@ score: check-env
 predict: check-env
 	@echo "🔮 Generating predictions..."
 	python scripts/score_teams.py --predictions 10
+
+matchup: check-env
+	@echo "⚔️ Interactive matchup analyzer..."
+	@echo "Available teams:"
+	@python scripts/analyze_matchup.py --list-teams
+	@echo ""
+	@echo "Usage: make matchup-specific TEAM1=\"Team Name\" TEAM2=\"Other Team\""
+
+matchup-specific:
+	@if [ -z "$(TEAM1)" ] || [ -z "$(TEAM2)" ]; then \
+		echo "❌ Please specify both teams:"; \
+		echo "make matchup-specific TEAM1=\"Los Angeles Dodgers\" TEAM2=\"New York Yankees\""; \
+	else \
+		python scripts/analyze_matchup.py "$(TEAM1)" "$(TEAM2)" --detailed; \
+	fi
 
 rankings: check-env
 	@echo "🏆 Displaying current rankings..."
